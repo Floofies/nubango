@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kb:Kerbango xmlns:kb="http://www.kerbango.com/xml">
+<kb:authenticate>
+<kb:method>CRAM-MD5</kb:method>
+<kb:challenge>foobar</kb:challenge>
+</kb:authenticate>
+</kb:Kerbango>

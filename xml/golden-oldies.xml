@@ -1,0 +1,1561 @@
+<kb:Kerbango xmlns:kb="http://www.kerbango.com/xml"><kb:results><kb:station_record>
+<kb:station>A.0 Golden Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La radio des souvenirs 100% plaisir</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://nicolasmusicfun.free.fr/a.0-golden-oldies.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>A.0.0.00Radio:All 60s All The Time</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All 60s all the time!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://a.0.0.00radio.com/60s/60s.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>A-0 70's Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing the best 70's songs!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://naxos.cdnstream.com/1286_128</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>a-0 All Christmas All The Time from A-0Radio.com</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All the modern Christmas songs from the modern era. Plus xmas number ones and twos</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://a-0radio.com/xmas/itunesxmas.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>a-0 Big Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Golden Oldies from the '50s and '60s</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://radiochoice.net/listen/bigoldies.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>A-1 Christmas Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Golden Christmas Oldies 24/7/365</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://x.a-1christmas.com/play/oldies.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>A-1 Christmas Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Golden Christmas Oldies 24/7/365</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://x.a-1christmas.com/play/oldies.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>All 60s All the Time - KeepFreeMusic.com</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>US 60s rock and pop, featuring songs from the British Invasion</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/all60sallthetime-keepfreemusiccom.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>All The Best Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Very Best of the 50's, 60's and 70's</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.opentabproductions.com/stations/allthebestoldies_itunes.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>allgold.ie</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Superhits of the 60's,70's &amp; 80's</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://keepfreemusic.com/allgold/allgold.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>48</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>AllHeart Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>It's a brilliantly bright easy listening groove with a great feel good vibe. Playing the world's biggest hits and artists 24 hours a day.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/AllHeartRadio-1.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>ANTENNE BAYERN Oldies but Goldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Oldies from the 70s and 80s</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.antenne.de/webradio/channels/oldies-but-goldies.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Antenne MV Oldies &amp; Evergreens</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Antenne MV Oldies &amp; Evergreens – Die gute alte Zeit ist JETZT!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.antennemv.de/oldies/mp3-192/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>ANTENNE VORARLBERG Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing the best oldies of the last decades!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://webradio.antennevorarlberg.at/oldies.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>ATTIC OF HITS RADIO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing the hits &amp; "LOST" hits of the 50s, 60s, 70s, &amp; 80s!! Classic commercials and classic TV themes too.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.live365.com/a23918</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>A Awesome channel</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All gold best music mix</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://s9.myradiostream.com:5824/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Best Net Radio - Golden Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your Best Bet For Internet Radio!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://bestnetradio.com/itunes/oldies.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Big R Radio - Golden Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Give this station a listen, Golden Oldies on Big R Radio is like no other. You'll love it!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.grungefm.com/itunes/oldiesHI.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Boss Boss Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Boss Hits of the 70s 80s and even the 60s with Live DJs</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.live365.com/b26873_64aac</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>British Sixties Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All the music from the sixties British Invasion and a whole lot more that never made it across the Atlantic.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.britishsixtiesradio.com/player/listen.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Broken Road Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Christian radio format featuring music of the '50s, '60s, '70s and newer</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.live365.com/a68019</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Christmas Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Golden oldies of the Christmas season playing 24/7 all year.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.christmasoldies.com/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>A Christmas Special from KeepFreeMusic.com</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All Christmas Rock &amp; Pop Oldies</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://keepfreemusic.com/xmas/itunes_xmas.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Count Down Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Year-end Top 100-style countdowns from 1955 to 1987 in stereo 24/7</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.live365.com/a34056</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CRIK FM - The Lynx Classic Hits</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing The Biggest Hits from Yesterday and Today</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/crikfm-thelynxclassichits.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>DECADE RADIO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your Oldies Super Station!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.live365.com/a00186</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Desert</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Oldies 1960s-70s Mon.- Friday. Classic Rock (CR) evenings, 1950’s music Saturday/Sunday. Sunday morning OTR and music of the 1940s (5 AM PT – 11 AM PT). R&amp;B Soul (1950s-1980s) Sat. &amp; Sun. 5 PM PT</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/Desert.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Desert</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Oldies 1960s-70s Mon.- Friday. Classic Rock (CR) evenings, 1950’s music Saturday/Sunday. Sunday morning OTR and music of the 1940s (5 AM PT – 11 AM PT). R&amp;B Soul (1950s-1980s) Sat. &amp; Sun. 5 PM PT</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/TheDesert.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Edgewater Gold Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The greatet oldies from the 50s 60s 70s and 80s</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.live365.com/a09955</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>GOLD FM - Die Größten Evergreens!</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Hier hören Sie die größten Evergreens aller Zeiten. Lehnen Sie sich zurück und reisen Sie mit uns zu den Höhepunkten der 70er und 80er.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.goldfm.de/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Golden Days Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Nostalgic music from 20's to present</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://1.ice1.firststreaming.com/gndr_fm.aac</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>GotRadio - Big Band Land</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best Big Band and Swinging standards</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.gotradio.com/itunes/big_band_aacplus.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>GotRadio - The Sixties</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description> A classic blend of the best rock, pop and soul of the 60's</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.gotradio.com/itunes/classic_60s_aacplus.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>GotRadio ^  Forever Fifties</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Forever enjoy the fabulous sounds of the Fifties!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.gotradio.com/itunes/forever_fifties_aacplus.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>GotRadio ^  Musical Magic</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Hear musical magic showcasing Broadway and Hollywood's most beloved musicals.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.gotradio.com/itunes/musical_magic.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Guldkanalen 60-tal</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Musik för vuxna öron</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.dbmedia.se/gk60talMP3</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>96</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Hit45s.com</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Good Time Oldies with 24/7 Presenters</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://hestia.cdnstream.com/1345_128mp3</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>iradiophilly Bandstand</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Philadelphia's Famous Oldies of the 50's and 60's</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://kmr.iad.streamguys1.com/bandstand.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>KCEA</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Big Band/Swing</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.rubinbroadcasting.com/kcea</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>KDUN - Oldies for the Oregon Coast</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Great Music for the Oregon Coast. KDUN is the ONLY radio station in the region locally programmed. Your Home for The Morning Joe, Reedsport Braves Football, CBS News, Delilah!, The Fresh Grocer, Bob Villa, Northwest Outdoors, The Lost 45's on Saturdays</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/kdun-oldiesfortheoregoncoast.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>K-EARTH 101 FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Greatest Hits on EarthThe Greatest Hits on Earth</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/KRTHFMAAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>KFRC.com Classic Hits</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>KFRC.com is the online home of Classic Hits!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/KFRCHD2AAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>K-GOLDEN</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>K-GOLDEN "The Oldies Station". Only the best Hits from 1955 to 1980. Alleen de beste Hits vanaf 1955 tot 1980. Remember The Good Old Days!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/k-golden.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>K-LUV Classic Hits</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>98.7 KLUV is a contemporary station that just happens to play music from yesterday. The station is relevant to the listener's life today, reflecting the news, events, fads and fashions that are on the listener's mind today surrounded by the greatest hits</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/KLUVFMAAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>K-LUV Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Greatest Hits of 1955-1964</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/KLUVHD2AAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>KoHoSo Radio 66</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The greatest music of the mid-20th century!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>https://broadcaster.live365.com/listen-link/a28894.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>KQSA Online</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your Quality Sound Alternative. Big Band, Swing and vocalists from the Great American Songbook.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://50.7.77.115:2199/tunein/ywijkcjx.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>LXClassics</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Magic of Music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.lxclassics.com/listen/lxclassics.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Magic Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Magic Oldies with the best Music Memories and the Music of your Life. Playing the Magical memories from the 60's, 70's, 80's, 90's.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/magicoldies.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Magic Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Magic Oldies with the best Music Memories and the Music of your Life. Playing the Magical memories from the 60's, 70's, 80's, 90's.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/magicoldies.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Magic Oldies Florida</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Solid Gold Hits from the Days of Future Gone By. Magic Oldies Florida - with Hits from the 60s, 70s, 80s, 90s. Site back and remember the good times with Magic Oldies Florida</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/magicoldiesflorida.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Martini in the Morning</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>It's not your parents' standards station! From Frank Sinatra and Dean Martin to Rod Stewart and Michael Buble...it swings, it sways, it's The Lounge Sound!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://hemnos.cdnstream.com/1460_128aac</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Michigan Don's Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The largest collection of oldies from 1955 to 1969 on internet radio. Everything from #1 to #100.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.donsoldies.com/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Oasis - Modern Easy Listening</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Oasis plays the mostly instrumental “Easy Listening” or “Beautiful Music” format. The program features instrumental versions of hits from yesterday and today, with a touch of smooth jazz/contemporary instrumental and soft vocals.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/theoasis-moderneasylistening.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Oasis - Modern Easy Listening</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Oasis plays a modern version of the instrumental based Easy Listening (aka "Beautiful" or "Elevator") Music format. The format features special instrumental covers of popular hits. On the side we include some smooth jazz/contemporary instrumental, and</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/theoasis-moderneasylistening.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Oasis - Modern Easy Listening</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Oasis plays the mostly instrumental “Easy Listening” or “Beautiful Music” format. SEE OUR NEW (TEMPORARY) WEBSITE, WITH ADDITIONAL LISTENING OPTIONS: https://theoasismoderneasylistening.wordpress.com/</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/theoasis-moderneasylistening.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Oldiemania</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Best of the 50's, 60's and 70's</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/oldiemania.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Oldies Channel by .977music.com</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best 50s and 60's music in played here!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.977music.com/itunes/oldies.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Plumtree Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All the greatest hits from the 50's to the 90's! Now featuring -BLAST FROM THE PAST- Real Radio shows and the DJs that made them famous! Yes you can go back in time!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.live365.com/a74343</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Powerhitz.com - The Timeblender</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>#1 For Classic Hits - The Greatest Hits Of All Time</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.powerhitz.com/ch.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>R.SA Oldieclub</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Der R.SA Oldieclubspielt das Beste der vergangen Jahrzehnte.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.rsa-sachsen.de/rsa-oldies/mp3-128/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>R.SA Ostrock</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>R.SA Ostrock ist die ewige Bestenliste des Ostrocks nonstop.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.rsa-sachsen.de/rsa-ostrock/mp3-128/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>R.SH Gold</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Die Preisträger des legendären Musikpreises R.SH-Gold nonstop</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.rsh.de/gold/mp3-192/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio 800 Gold</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>RADIO 800 GOLD - JUST CLASSICS !!!De grootste klassiekers uit de jaren 70, 80 en 90 non stop 24 per dag 7/7. Vlaamse en Nederlandstalige hits, verzoekplaten. Bezoek onze website www.radio800.be - mail ons info@radio800.beThe greatest classic songs from th</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/radio800gold.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Birikina</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>italian jukeBox anni 60</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://players.fluidstream.net/birikina_iTunes.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>48</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Dreyeckland</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Vos plus belles chansons</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://radiodreyeckland.ice.infomaniak.ch/radiodreyeckland-128.mp3</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Mélodie</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Toute les musiques que vous aimez écoutez</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://str0.creacast.com/melodie_hq.mp3</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Nostalgia</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Alleen de beste oldies uit de jaren 50, 60 en 70Only the best oldies from the fifties, sixties and seventies</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/radio-nostalgia.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Regenbogen - Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Oldies but Goldies, Classic Hits und Evergreens.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.regenbogen.de/rr-oldies-128-aac&#63;usid&#61;0-0-H-A-D-45</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Sounds Familiar</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Nostalgic Television, Film, Radio, Cues, Curios and Library Music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://samcloud.spacial.com/api/listen&#63;sid&#61;72173&amp;m&#61;sc</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RADIO VALENTINA FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>RADIO VALENTINA FM LA PIU' BELLA MUSICA ITALIANA</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/radiovalentinafm.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Yé-Yé!</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La radio des années 50, 60 et 70 (100% francophone) / French language hits from the 50s, 60s and 70s</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.radioyeye.com/ecoute.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RadioMonster.FM - Evergreens</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Bei uns bist DU Musikchef!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://evergreens.radiomonster.fm/320</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>320</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RauteMusik.FM Goldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>#Musik.Goldies - 24/7 hours open - Old but Gold!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://goldies-high.rautemusik.fm/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Retro Radio Danmark</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Vi er deres Retro Radio, med hits fra 60'erne, 70'erne og 80'erne.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream128.retro-radio.dk/retro</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Retro Radio Jul Danmark</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Vi er deres Retro Jule Radio, med Jule Hits fra 60'erne, 70'erne og 80'erne</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://retro-radio.dk/netradio/jul.php</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RFT Gold</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Solo grandi successi del passato, canzoni che hanno fatto la storia della musica.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://178.209.40.106/stream/rftgold.pls&#63;mp&#61;/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RPR1. Evergreens</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Diese Songs gehen immer vom allerersten Erscheinen an bis noch in hundert Jahren und darüber hinaus. Die Big Player im Musikbusiness, die absoluten Perlen und Klassiker. Internet Radio, bei dem jeder Track von beispielsweise Bruce Springsteen, ABBA oder</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.rpr1.de/rpr-evergreens-128-mp3&#63;usid&#61;0-0-H-M-D-45</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RPR1. Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Was wäre Internet Radio ohne RocknRoll, Petticoat, Pomade und kreischende Mädels, die wegen den Beatles oder Elvis Presley umkippen&#63; Milchshake im Diner. Halbstarke, die sich wilde Autorennen liefern und der ewige Drang der Jugend nach Freiheit. Musikal</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.rpr1.de/rpr-oldies-128-mp3&#63;usid&#61;0-0-H-M-D-45</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz Florida Plus</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth Jazz Florida Plus – Stream 2 of the Smoothest Jazz on the Planet! Broadcasting Live 24/7 from Sunny South Florida with a Hi Definition CD quality radio station. Tune in sit back, enjoy and relax to the Smooth Jazz Lifestyle of Smooth Jazz Florid</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/SmoothJazzFloridaPlus.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>SomaFM: Illinois Street Lounge</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Classic bachelor pad, playful exotica and vintage music of tomorrow. Commercial free and listener supported.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://somafm.com/illstreet.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Sound of the Strip 100.3 HD2</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>100.3 HD-2 is now The Sound of the Strip, Vegas Rat Pack Baby!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/KJKKHD2AAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>South Florida Smooth Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Boradcasting from the beaches of Sunny South Florida we're South Florida's Smooth Jazz Station *** Visit us online at: www.SouthFloridaSmoothJazz.com</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/southfloridasmoothjazz.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Top 10 Heaven</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>50s, 60s and 70s top 10 hits in stereo 24/7</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://199.168.117.61:8020/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Traxx Golden Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Best Hits 50' - 70'</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://traxx023.ice.infomaniak.ch/traxx023-1.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>TRUE OLDIES CHANNEL</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Scott Shannon's TRUE OLDIES CHANNEL - The Heart &amp; Soul of Rock &amp; Roll</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/trueoldieschannel.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>TURBULENCES 1</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>de la musique en classe premium, des infos nationales et normandes...</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/turbulences1.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WCBS-FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>New York's Greatest Hits</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/WCBSFMAAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WCGR</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>70's &amp; 80's H.D Sound !</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://westcoast.vestaradio.com/listen.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WFMU's Rock 'n' Soul Ichiban</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Obscuro hits from the 50s &amp; 60s</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://wfmu.org/wfmu_rock.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WGVX-FM (Love 105 FM)</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Greatest Songs Of All Time</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://provisioning.streamtheworld.com/pls/WGVXFMAAC.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>48</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WLS-FM (Chicago's True Oldies Channel)</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>94.7 Chicago's True Oldies Channel</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://provisioning.streamtheworld.com/pls/WLSFMAAC.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>48</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Wow I Haven't Heard This Song in Years</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>60s &amp; 70s non-top 10 songs in stereo 24/7</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.live365.com/a71517</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WRCW RADIO – HOME OF GUNSMOKE</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Can't Get Enough Of Gunsmoke&#63; Join Us For The Whole Entire Series. Sit Back, Kick Your Feet Up And Enjoy!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>https://broadcaster.live365.com/listen-link/a64449.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Zoomer Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Timeless hits</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.zoomerradio.ca/zoomerradio.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>1 HITS 50s</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Best music from 50s</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/1hits50s.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>1 Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>24/7 oldies music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/1-oldies</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station> 1 Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best oldies on the air!!!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/nummer_1_oldies</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>1.FM - Exitos del Ayer</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Best Spanish Oldies! The Music Starts Here!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.1.fm/tunestream/spanisholdies/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>1000 Melodien</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Was wir schon lange mal wieder hören wollten</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/1000melodien.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>1000 Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Der Soundtrack unseres Lebens</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/1000oldies.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>101 SMOOTH JAZZ MELLOW MIX</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All you need for the most laid back smooth jazz experience, designed for relaxation and contemplation. There’s nothing like it.It’s the perfect background for relaxing pursuits and time spent with friends. It’s ideal for dinner parties too!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/101smoothjazzmellowmix.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>101 SMOOTH JAZZ MELLOW MIX</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All you need for the most laid back smooth jazz experience, designed for relaxation and contemplation. There’s nothing like it.It’s the perfect background for relaxing pursuits and time spent with friends. It’s ideal for dinner parties too!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/101smoothjazzmellowmix.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>104.3 WOMC Detroit</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Hits from the 60's , 70's and 80's</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/WOMCFMAAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>104.3 WOMC HD2</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Best Hits of the 50's and 60's</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/WOMCHD2AAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>105.9 SUNNY FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Orlando's Greatest Hits of the 70s and 80s</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/WOCLFMAAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Elevator</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Easy Listening Elevator Music | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/elevator.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Revolution</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Greatest Hits USA 1960-1969 | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/revolution.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Revolution - 1960</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: 1960’s Greatest Hits USA | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/revolution1960.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Revolution - 1961</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: 1961’s Greatest Hits USA | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/revolution1961.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Revolution - 1962</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: 1962’s Greatest Hits USA | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/revolution1962.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Revolution - 1963</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: 1963’s Greatest Hits USA | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/revolution1963.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Revolution - 1964</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: 1964’s Greatest Hits USA | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/revolution1964.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Revolution - 1965</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: 1965’s Greatest Hits USA | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/revolution1965.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Revolution - 1966</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: 1966’s Greatest Hits USA | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/revolution1966.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Revolution - 1967</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: 1967’s Greatest Hits USA | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/revolution1967.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Revolution - 1968</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: 1968’s Greatest Hits USA | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/revolution1968.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Revolution - 1969</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: 1969’s Greatest Hits USA | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/revolution1969.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM The Beatles</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: The Beatles Greatest Hits | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/thebeatles.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>45Tours</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>SUCCÈS FRANÇAIS DES ANNÉES 60s 70s. Adamo, R.Anthony, Aznavour, A.Barrière, G.Bécaud, M.Brant, Brel, P.Carli, Chocolat's, Petula, J.Clerc, Dalida, J.Dassin, Ferrat, C.et F.François, Enrico, M.Mathieu, Mouskouri, Polnareff, M.Torr, S.Vartan, H.Vilard</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/45tours.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>50s All Time Greatest</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>50s All Time Greatest Radio is here to bring you the best 50s, 60s, oldies music 24/7 to your computer, smartphone and radio. All classic hits, one hit wonders and all those songs you had forgotten about..!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/50salltimegreatest.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>57 Chevy Love Songs</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Golden oldies for romancin' and slow dancin'. The love songs of the 57 Chevy era.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.57chevylovesongs.com/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>57 Chevy Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Golden oldies from the 60s and late 50s. All the hits and lots of hidden gems too.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.57chevyradio.com/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>57 Chevy Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Golden oldies from the 60s and late 50s. Like the 57 Chevy, these are the songs that stood the test of time. All the hits and lots of hidden gems too.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/57chevyradio.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>60s EPIC! Countdown Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>We're playing the top 60's songs!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://naxos.cdnstream.com/1267_128</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>70s EPIC! Countdown Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>We're playing the top 70's songs!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://naxos.cdnstream.com/1268_128</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>80s EPIC! Countdown Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>We're playing the top 80's songs!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://naxos.cdnstream.com/1269_128</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>94.5 KOOL FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing the Valley's Greatest hits for over 40 years</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/KOOLFMAAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.95FM PUREGOLD ROCK N ROLL</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>America's Greatest Oldies</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.puregoldoldies.com/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>98.1 WOGL Classic Hits</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>98.1 WOGL Philadelphia---Greatest Hits of the 60s, 70s and 80s</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/WOGLFMAAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+</kb:results></kb:Kerbango>

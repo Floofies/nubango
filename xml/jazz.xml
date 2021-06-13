@@ -1,0 +1,2113 @@
+<kb:Kerbango xmlns:kb="http://www.kerbango.com/xml"><kb:results><kb:station_record>
+<kb:station>A-1 Christmas Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth Christmas Jazz 24/7/365</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://x.a-1christmas.com/play/jazz.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Absolute 101 Smooth Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The smoothest jazz. All instrumental. Perfect background music, any time, any place.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://live.mystreamplayer.com/geo-switch.m3u&#63;whitelist&#61;US&amp;URL&#61;http://radiocoalition.org/listen/101smoothjazz.m3u&amp;URLInt&#61;http://radiocoalition.org/listen/101smoothjazz-rad.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>AceRadio ^ Smooth Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your best bet for Internet Radio.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.aceradio.net/itunes/smoothjazz.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>AceRadio ^ Vocal Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your best bet for Internet Radio.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.aceradio.net/itunes/vocaljazz.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>AFRICANJAZZSPOTLIGHTRADIO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Contemporary Jazz, Smooth Jazz, Cool Jaz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.spacial.com/api/listen/&#63;sid&#61;72230&amp;method&#61;sc&amp;rid&#61;12691</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Airless Jazz Jubliee</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Serving up a jubilant blend of traditional and modern jazz.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://airlessradio.com/listen/pls/jazzjubilee.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Airless Smooth Grooves</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The station the streams the smoothest of jazz grooves</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://airlessradio.com/listen/pls/smoothgrooves.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Art Stevens Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>A mix of great music and inspirational talk.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.live365.com/a80201</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Big Band Magic</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best of the big band sound featuring Duke Ellington, Glenn Miller, Jimmy Dorsey, Harry James, Benny Goodman, Louis Armstrong, Cab Calloway, and their crooners, SINATRA, ARMSTRONG, COLE.If its a Big Band playing Swing, Jazz, Bebob, and even a bit of </kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/bigbandmagic.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Big Band Magic</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best of the big band sound featuring Duke Ellington, Glenn Miller, Jimmy Dorsey, Harry James, Benny Goodman, Louis Armstrong, Cab Calloway, and their crooners, SINATRA, ARMSTRONG, COLE.If its a Big Band playing Swing, Jazz, Bebob, and even a bit of </kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/bigbandmagic.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>boozik jazzy</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Vivez Jazzy ! JAZZ MUSIC UNLIMITED - THE SOUND THAT EMBRACES THE LIFE |Join us on facebook.com/boozikwebradios</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/boozik-jazzy.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Capital Jazz Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The home of funky jazz!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.radio.co/s7c1ea5960/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Capital Public Radio - JazzStream</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Capital Public Radio JazzStream: 24/7 Jazz music, Sacramento, CA. More info at capradio.org</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>https://playerservices.streamtheworld.com/pls/JazzStreamAAC.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>96</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Crooner Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La nouvelle radio française haut de gamme !</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.crooner.fr/crooner</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Crooner Radio Dean Martin</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La radio hommage à Dean Martin</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.crooner.fr/crooner_deanmartin</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Crooner Radio Frank Sinatra</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La radio hommage à Frank Sinatra</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.crooner.fr/crooner_sinatra</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Crooner Radio Gentlemen Drivers</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Crooner Radio rythme votre voyage au volant de votre automobile de collection !</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.crooner.fr/crooner_gentleman</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Crooner Radio In Private</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Plus qu'une radio, un véritable Art de Vivre In Private</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.crooner.fr/crooner_inprivate</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Crooner Radio Légendes</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La radio des plus grandes voix de légendes</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.crooner.fr/crooner_legendes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Crooner Radio Night Fever</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Rythmez vos soirées avec Crooner Radio Night Fever !</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.crooner.fr/crooner_nightfever</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Crooner Radio On The Movies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Votre vie est un film en Cinémascope, Crooner en signe la bande originale !</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.crooner.fr/crooner_otm</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Crooner Radio Tigers</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La radio qui a des griffes !</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.crooner.fr/crooner_tigers</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>eurosmoothjazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Europe's finest smooth jazz. Relax and enjoy!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/eurosmoothjazz.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>FIP autour du jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>D’Avishai Cohen à Herbie Hancock, de Nina Simone à Christian Scott, retrouvez le swing de FIP dans une sélection musicale qui traverse les genres et les époques.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://direct.fipradio.fr/live/fip-webradio2.mp3&#63;ID&#61;jzq975xz47</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>France Musique | La Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Tout le jazz, instrumental et vocal.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3&#63;ID&#61;jzq975xz47</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Ganymed Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>A diverse mix from contemporary jazz.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/ganymed.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Giants of Jazz Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The home of classic jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.radio.co/s297e618a7/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>GotRadio - Jazz So Smooth</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth jazz guaranteed to smooth out your work day</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.gotradio.com/itunes/jazz_so_smooth_aacplus.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>GotRadio - Jazz So True</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>For the consummate jazz lover. Tasty through and through.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.gotradio.com/itunes/jazz_so_true_aacplus.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>iCSLradio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jakarta Online, Mobile, The Most Iconic Sound</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.radio.co/s79bf2e3c1/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Indie Blend</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Here's an Indie Rock station that pulls only the best songs played on Sirius XMU, KCRW, Indie 103.1, AM 1700, Soma FM Indie Pop Rocks and some of my Pandora channels.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/theindieblend.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>iradiophilly Martini Lounge</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Philadelphia's Sinatra and more... From the Rat Pack to Right Now</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://kmr.iad.streamguys1.com/singers.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Jazz 88.3 KCCK</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Iowa's Jazz Station</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.kcck.org/jazz883kcck</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>160</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Jazz Bay Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth Jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.live365.com/a65166</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Jazz Beats Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jazz Beats Radio playing the Best Smooth Jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://ice3.securenetsystems.net/JAZZBEAT</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Jazz Groove</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Elegant Jazz. Laid-back and commercial-free.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://thejazzgroove.com/itunes.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Jazz Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jazz Radio, la radio de tout les Jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://statslive.infomaniak.com/playlist/jazzradio/jazzradio-high.aac/playlist.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>jazz swing manouche radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Du swing au Jazz Manouche, du Bebop au Ragtime c'est un tourbillon qui vous entraine dans JSM Radio.From the swing to the Gipsy Jazz, the Bebop and the Ragtime, it is the whirl which take you in “Jazz, Swing, Manouche Radio”.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.radiojar.com/6rxpyrnzsv5tv.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>jazz swing manouche radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Du swing au Jazz Manouche, du Bebop au Ragtime c'est un tourbillon qui vous entraine dans JSM Radio.From the swing to the Gipsy Jazz, the Bebop and the Ragtime, it is the whirl which take you in “Jazz, Swing, Manouche Radio”.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/jazz-swing-manouche-radio.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Jazz Wyoming</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>24/7 Jazz from Wyoming Public Media</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>https://wprhqstream4.uwyo.edu/kuwl128.mp3</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>JAZZ.FM91 ^ High Standards</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Classic tracks from the great jazz singers - from JAZZ.FM91, Canada's Premier Jazz Station</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streamergamma.jazz.fm:8000/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>jazz89 KUVO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jazz, Blues &amp; Latin Jazz on Public Radio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://kuvo-ice.streamguys.org/kuvo-aac-64.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Jazzloft</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Dedicated to friends of Jazz, Lounge, Groove and Worldmusic</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/jazzloft.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>JazzOn2</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Straight-ahead jazz...Jersey style</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://ice8.securenetsystems.net/JAZZON2</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>JazzRadio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Germany's 24/7 Jazz music station. Broadcasting online and on FM in Berlin and Rostock.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.radio.co/s774887f7b/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>JazzRadio (MRG.fm)</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth, Cool, Nu &amp; Classic Jazz, Fusion, Electro Swing Music Have Found Their Home</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.mrg.fm:8040/stream2</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Jonathan Channel</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Great American Songs from WNYC, 24/7</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://tjc.wnyc.org/js-stream.aac</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>jRADIO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Finest Post-Bop and Contemporary Jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/jradio.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>KCSM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jazz 91.1: The San Francisco Bay Area's Jazz Station</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://ice7.securenetsystems.net/KCSM2</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>K-JAZZY</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>K-JAZZY: FEEL THE JAZZ.... SmoothJazz, ClassicJazz, LatinJazz, Soul, Swing &amp; Jazzy Oldies.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/k-jazzy.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>KMHD</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jazz Radio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.kmhd.org/streams/kmhd.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>96</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>KUAZ News and Jazz Tucson</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>NPR Programming with Jazz in the evenings.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.azpm.org/kuaz192.mp3.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Love Jazz Florida</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth Jazz and Cool Jazz for Lovers!  Sweet, Nice and Sexy!  Love Jazz Florida</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/lovejazzflorida.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>M2 JAZZ</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>ONLY JAZZ - Live from Paris France - www.m2radio.fr</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.m2radio.fr/pls/m2jazz_itunes.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>New Jazz IRadio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>New Jazz Iradio - Internet Radio Station</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.radio.co/sfa2a015de/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>New Morning Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>New Morning Radio is the radio of the famous and legendary jazz concert hall in Paris.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.newmorning.com/newmoirningradio.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>NRK Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Music. Intervievs and concerts</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://lyd.nrk.no/nrk_radio_jazz_mp3_h.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Oasis - Smooth Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>103.7 HD2</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/KVILHD2AAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Ohrenweide</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jazz, Funk, Classic-Rock, Blues</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/ohrenweide.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>OneLuvFM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jazzy - Funky -Sexy - Housey, Loungy, Urban Soul _ All kinds of music for all kinds of people</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streamer.radio.co/s34d8d1549/listen.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Swiss Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jazz, Soul und Blues rund um die Uhr</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.radioswissjazz.ch/live/aacp.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>96</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio48.com  Smooth Jazz Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth Jazz Music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.radio.co/s1d876459b/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radiolla Jiraffe</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jiraffe is jazz, funk and fusion channel on Radiolla internet-radio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://radiolla.com/playlists/jiraffe.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RelaxingJazz.com</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Home of Smooth Jazz, live from St. Lucia</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.relaxingjazz.com/iTunesRadio.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Rio Club</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Helló ez a rádió arra szolgál hogy a rió clubban szoljon a zene semmi más célom nincs a rádióval. Szóval várlak benneteket a rio clubban Class City-ben.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/rioclub.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>riseFM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description></kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://risefm.de/src/live.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Rochester's Jazz Station - Jazz90.1</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Real Jazz and Blues 24/7/365</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.jazz901.org/assets/streams/jazz901Stream.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>96</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>San Diego's Jazz 88.3</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>San Diego's Jazz 88.3, KSDS-FM and jazz88.org, Listener-Funded Real Jazz and Blues</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.jazz88.org/itune.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>SatinJazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Romantic Jazz from great female Jazz vocalists</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://satinjazz.com/satinjazz.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>SAX Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Saxophone Radio for Jazz lovers</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>file:///C:/Users/fanta/Documents/nubango/streamingbiz.co.uk/sax-radio.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Saxy Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jazz to Sooth Your Soul</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://hearme.fm:8499/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Selections</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jazz and Blues</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/selections</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Sexy jazz Songs</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Sexy Jazz Radio Station</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://webcastradio.net/radios/sexyjazzsongs.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Simply Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Very Best of Jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://hearme.fm:8158/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth 97 The Oasis</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Jazz Place</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://janus.cdnstream.com:5014/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Groovers</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth Jazz, Funk, Soul &amp; Chill</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://s5.voscast.com:7866/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Grooving FM - UK</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Rod Lucas Keeping London cool with a mixture of Soft Soul Vibes &amp; Smooth Jazz Londons 'Smooth Grooving FM' . Luther Vandross and George Benson meet Peter White and Candy Dulfer.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://64.95.243.43:8020/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Very Best of Jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://hearme.fm:8545/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz 102.7 HD2</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing smooth Jazz on 102.7 HD2 in New York</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/WNEWHD2AAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz 247</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The worlds favorite smooth jazz station. With DJs 24 hours a day.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/smoothjazz247.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz 247</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The worlds favorite smooth jazz station. With DJs 24 hours a day.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://live.mystreamplayer.com/geo-switch.m3u&#63;whitelist&#61;US&amp;URL&#61;http://radiocoalition.org/listen/smoothjazz247.m3u&amp;URLInt&#61;http://radiocoalition.org/listen/smoothjazz247-rad.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz Box</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>www.SouthFloridaSmoothJazzBox.com</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/smoothjazzbox.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz Expressions</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth, Brazilian jazz and more.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://64.78.234.172:8010/stream/4/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>80</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz Florida</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth Jazz Florida - Broadcasting 24/7 From Sunny South Florida with a 128 Kbps Hi Def CD quality Smooth Jazz Stream. We're Smooth Jazz Florida with the Smoothest Jazz on the Planet!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/SmoothJazzFlorida.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz Florida Plus (+)</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth Jazz Florida Plus (+) with the Smoothest Jazz on the Planet!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/sjfplus.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz Mix</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The coolest smooth jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://hearme.fm:8180/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz New York City</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>SmoothJazzNewYorkCity.com</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/smoothjazznewyorkcity.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz Planet</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth Jazz Planet! The Smoothest Jazz on the Internet! Smooth Jazz 24/7. Serving up Lite, Easy Smooth Jazz. Relax, Sit Back and Enjoy the Ride on Smooth Jazz Planet.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/smoothjazzplanet.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz Smooth Wave</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Smooth Jazz Wave  24 hours a Day Smooth Jazz. The Best in Todays Smooth Jazz Instrumentals and Vocals from the Wave.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/smoothjazzsmoothwave.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz Tampa Bay</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>smoothjazztampabay.com - WJAZ.DB - The World's Smooth Jazz Destination Since 2004</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://smoothjazztampabay.com/SJTB.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz V98.7 HD2</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Detroit's Home for Smooth Jazz V98.7 HD2</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/WDZHHD2AAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Jazz Worldwide</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing the best Smooth Jazz!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://dynamoradio.net/listen/smoothjazzworldwide</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Motion FM – MotionFM.com</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Silky Soul, Cool Grooves &amp; Jazz Rhythms</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.motionfm.com/live/motiontwo_itunes.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>SmoothJazz.com KJAZ.db</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Global Home for the Smoothest Jazz since 2000</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://sj128.hnux.com/live</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>SMOOTHJAZZ.COM.PL</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>THE EUROPEAN HOME OF SMOOTH JAZZ</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream4.nadaje.com:11416/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>SmoothJazzMXOnLine</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Somos una estación de radio on-line que trasmite solo las mejores melodías de los mejores artistas del smooth jazz¡¡¡ Desde Guadalajara, México, para todo el mundo¡¡¡</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/smoothjazzmxonline.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>SmoothJazzMXOnLine</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Somos una estación de radio on-line que trasmite solo las mejores melodías de los mejores artistas del smooth jazz¡¡¡ Desde Guadalajara, México, para todo el mundo¡¡¡</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/smoothjazzmxonline.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Somehow Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>A unique blend of contemporary jazz elements with 320Kbps Audiophile Streaming | https://somehowjazz.com</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://184.107.132.90:4050/192K/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>320</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>SONGCAST RADIO - Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>LISTEN, EXPLORE, DISCOVER - NEW JAZZ</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://52.24.52.72:9020/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Sonic Universe from SomaFM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description> NuJazz + avant-garde EuroJazz. Transcending the world of jazz with experimental takes on tradition.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://somafm.com/sonicuniverse.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Soothing Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best of Soothing Jazz - 24 Hours a Day / 7 Days a Week</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>file:///C:/Users/fanta/Documents/nubango/www.shoutcast-radio.net/soothingjazz.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Soothing Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best of Soothing Jazz - 24 Hours a Day / 7 Days a Week</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://webcastradio.net/radios/soothingjazz.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>SOUL GOLD RADIO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>SOUL GOLD RADIO-SMOOTH JAZZ</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://38.107.242.34:8015/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>96</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>SOUL GOLD RADIO - Smooth Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth Jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://209.105.232.152:8015/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Soulectic</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Original underground jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://s2.voscast.com:7336/&#59;stream.mp3&#63;sid&#61;1</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Sound of Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Listen to some of the best Jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://hearme.fm:8088/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Source: Smooth Jazz Radio - KJAC.DB</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Best Smooth Jazz on the Internet</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>s4.nexuscast.com:8020</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Stereo99.com</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Greatest Singers from the 50s, 60s &amp; Today</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://50.97.94.44:8032/live.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Studying with No Lyrics Jazz - Creative Commons - Beatdropbus.top</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Tune in to hear instrumental Jazz beats that you can use for your own creative projects. Creative-Commons licensed, so you can use them commercial if you want! Hear artists from the Free Music Archive, Jamendo and more. Listen to other stations at www.bea</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.beatdropbus.top:8000/nolyrics-azz.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Swing Street Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Big Band, Early Jazz &amp; Swing from the Golden Age of Popular Music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://s6.voscast.com:11312/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>SwissGroove</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>SwissGroove.ch - the exciting mix of Jazz, Funk, Soul, World &amp; Nu Grooves - nonstop</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.swissgroove.ch/listen.php&#63;player&#61;m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>A Taste of Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Classic Jazz for easy listening</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.tojfm.com/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>thejazzmovement.com</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>hard bop, bebop and cool jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.radio.co/sc645f94d3/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>thejazzofwiesbaden</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jazz, Blues &amp; Soul</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/thejazzofwiesbaden.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Top Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Top Jazz around</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://hearme.fm:8500/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Top Jazz Music</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Very Best of Jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://hearme.fm:8514/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Traxx Cool jam</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jazzy-Soul - Lounge</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://traxx005.ice.infomaniak.ch/traxx005-low.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Traxx Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>True Jazz music selection</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://traxx014.ice.infomaniak.ch/traxx014-low.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Troy Public Radio 2</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Troy University Public Radio: Classical/Jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://live.str3am.com:2380/troy2.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>TSF Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La radio 100% Jazz de Paris</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://statslive.infomaniak.ch/playlist/tsfjazz/tsfjazz-high.mp3/playlist.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Twenterand</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Very Best of Salsa</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://hearme.fm:8251/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Uptempo Smooth Jazz - RADIOTUNES.COM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The world's smoothest jazz, grooving 24 hours a day | www.radiotunes.com</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radiotunes.com/itunes/uptemposmoothjazz.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>V98.9 :: Aleasha Smooth Jazz &amp; Neo Soul</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>24/7 of the hottest Smooth Jazz, Neo Soul, and R&amp;B.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://50.30.41.198:8000/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Very Best of Folk</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Very Best of Folk</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://hearme.fm:8034/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Very Best of Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Very Best of Jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://hearme.fm:8039/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Very Best of Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Very Best of Jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://hearme.fm:8487/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Very Best of Latin</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Very Best of Latin</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://hearme.fm:8040/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>VirginiaMusic</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Vocal jazz, female vocalists only.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://server-09.stream-server.nl:8328/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Vocal Smooth Jazz - RADIOTUNES.COM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best of vocal smooth jazz!! | www.radiotunes.com</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radiotunes.com/itunes/vocalsmoothjazz.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WAER Jazz 88 Syracuse Public Media</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Public Radio from Syracuse University</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>https://playerservices.streamtheworld.com/pls/waerhd2.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WAER-2 Syracuse Public Media</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Public Radio from Syracuse University</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>https://playerservices.streamtheworld.com/pls/waerhd2.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>the wave - relaxing radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>the wave spielt Musik abseits vom Mainstream. Hören Sie ohne Unterbrechung entspannende Musik zwischen Smooth Jazz, Pop, Singer-Songwriter, Lounge Music und Soul. Mit vielen neuen, unbekannten und wertvollen Künstlern, die wir Ihnen sehr gern ans Herz u</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.thewaveradio.de/wave-live/aac-64/itunes/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Wave KHJZ-HD2</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Smooth Way to relax and make you feel great. The Wave is Houstons unique format for Jazz. Unwind with us!!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/KHJZHD2AAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WBFO-FM HD2</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>WBFO-FM 88.7</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://pubint.ic.llnwd.net/stream/pubint_wbfohd2.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WBGO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>WBGO Jazz88.3FM ^ The Jazz Source</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://wbgo.streamguys.net/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WCAI - WGBH Jazz Decades</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Cape and Islands</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://audio.wgbh.org/otherWaysToListen/jazzDecades.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WCJS Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Streaming 24/7, WCJS Radio provides its listeners with a sophisticated blend of jazz, blues, and talk that is sure to ignite their musical palates.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://38.107.242.157:8221/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WDCB 90.9 Jazz &amp; Blues</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Chicago Listener-Supported Jazz Radio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://wdcb-ice.streamguys.org/wdcb128.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WDNA 88.9FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best in Serious Jazz public radio from Miami, Florida.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://war.str3am.com:7990/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WICR HD2 - The Mirror Image</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Other Side of the Diamond</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://icy3.abacast.com/univofindy-wicrhd2aac-48.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Wine Farm And Tourist radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Nonprofit organization</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/winefarmandtouristradio.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Wine Farm And Tourist radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Tasting Wine - Listening  Jazz Nonprofit organization</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/winefarmandtouristradio.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Wine Farm And Tourist radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Tasting Wine - Listening  Jazz Nonprofit organization</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/winefarmandtouristradio.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WJMX-DB Smooth Jazz Boston Global Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Contemporary Smooth Jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://ca2.rcast.net:8036/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>320</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WNCU</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>WNCU 90.7</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.publicbroadcasting.net/wncu/ppr/wncu.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WRTI - Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Listen to WRTI's signature jazz programming. We pride ourselves on delivering the best of the standards, and introducing the best of emerging artists making a splash in today's jazz scene. </kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_JAZZ.mp3</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WUCF: 89.9 Jazz &amp; More</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>WUCF</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.wucf.org:8000/jazz-64-aac.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WUSF 89.7</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>WUSF 89.7 is the NPR station for west central Florida, with listeners and members from Crystal River in the North, to Port Charlotte in the South, and Osceola County to the East. On February 13, 2003, WUSF 89.7 became the first Public Radio station in the</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://mp3.wusf.usf.edu:8000/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WVIA HD-3 - The Chiaroscuro Channel</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Classic Jazz songs spanning the entire Chiaroscuro Jazz Catalog</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/WVIAHD3AAC.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WWFM Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>WWFM The Classical Network</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://ice8.securenetsystems.net/JAZZON2.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WWOZ New Orleans - Jazz and Heritage - 90.7FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Bringing New Orleans music to the universe - Jazz, Blues, Funk, Cajun, and World &amp; Roots music from WWOZ.org</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://wwoz-sc.streamguys.com/wwoz-hi.mp3.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Yourdemobox - Christmas Channel</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Christmas Relax Music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://orion.shoutca.st:8248/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Yourdemobox - Jazz Only</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jazz Only</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://orion.shoutca.st:8173/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>001Christmas.com - Smooth Christmas</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth Christmas Favorites 24/7</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://001christmas.com/smooth.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.011FM - Holiday Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing the best in Holiday Jazz - @011fmradio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://011fm.com/listen/holidayjazz.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.011FM - Holiday Smooth Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Holiday Smooth Jazz, 24/7 - @011fmradio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://011fm.com/listen/holidaysmoothjazz.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.011FM - Holiday Swing</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your Christmas favorites, 24/7 - @011fmradio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://011fm.com/listen/holidayswing.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.011FM - Jazz Collection</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The biggest Jazz collection on the internet! - @011fmradio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://011fm.com/listen/jazzcollection.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.011FM - Smooth Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The smoothest Jazz on the Internet! - @011fmradio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://011fm.com/listen/smoothjazz.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station> 1 Jazz Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All great hits of Jazz music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/-1jazzradio.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>1000 Smooth Hits</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The global groove</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/1000smoothhits.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>101 SMOOTH JAZZ</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The smoothest jazz. All instrumental. Perfect background music, any time, any place.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/101smoothjazz.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM The Wave</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Smooth Jazz | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/thewave.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Watercolors</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Contemporary Jazz | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/watercolors.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>181.fm ^ The Breeze</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your At Work Smooth Jazz Choice!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.181.fm/tunein.pls&#63;station&#61;181-breeze</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>1940s Radio GB</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Music, old time radio shows &amp; vintage soundbites from the 1940's</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.pumpkinfm.com:8178/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>24.7 The Sail</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Music For The Journey</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://relay.sonixcast.com/9841</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>257 Jazz Connection</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Great Britain's favourite Jazz music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>https://dione.shoutca.st/tunein/radio257jazz.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>80S JAZZ - BE GOOD RADIO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All 80s, all the time!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://begoodradio.com/itunes/jazz.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>88.3 SmoothJazz By EuropaRadioJAzz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth Jazz and Classic American Music from the '50s, '60s, '70s</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://sr7.inmystream.info:2199/tunein/mbarsot.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>88.3 SmoothJazz HD</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jazz and American Music from the ‘50s ‘60s ‘70s</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://176.31.117.120:8056/stream.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>320</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>88.7 - The Diamond</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>A Different Kind of Public Radio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://icy3.abacast.com/univofindy-wicrhd1aac-48.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>89.9 Jazz &amp; More</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>24-hours of straight-ahead jazz, big-band, blues and hourly NPR news updates.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.wucf.org:8000/jazz-128-aac.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>90.5 WESA: WESA's 24 Hour Jazz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>90.5 WESA: WESA's 24 Hour Jazz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://wesa.streamguys.com/jazz.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>96.9 The Oasis</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>96.9 The Oasis - The World's Smooth Jazz Place</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://192.211.51.158:5014/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Βeton7artradio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>It's a radio that speaks Art</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://uk1.streamingpulse.com:8092/&#59;stream.mp3</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+</kb:results></kb:Kerbango>

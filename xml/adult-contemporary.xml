@@ -1,0 +1,3661 @@
+<kb:Kerbango xmlns:kb="http://www.kerbango.com/xml"><kb:results><kb:station_record>
+<kb:station>A.0.0.00Radio:a-0 A A A-All Today</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All Today, all the time!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://a.0.0.00radio.com/today/itunestoday.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>A.A.SLOWLY RADIO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Slow love song &amp; Groove Music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.slowlyradio.com/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>A.S.Webradio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Profil Pop Rock Hits – Since 2009</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.spiritradios.net/ASWebradio.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>A_A Love</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>For the lover in you - www.anthology-webradio.com</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.shoutcast.com/a-alove</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>A_A Soundtrack</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Movies, series, cartoons &amp; video games themes</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.shoutcast.com/a-asoundtrack</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>a-0 A A A-All Today</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Soundtrack To Your Day</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://a-0radio.com/today/itunestoday.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>a-0 A Love Story</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All love songs 24/7/365</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://radiochoice.net/listen/alovestory.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>a-0 Classic Grooves</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All 70s and 80s Hits</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://radiochoice.net/listen/classicgrooves.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>a-0 Mix FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Hits of the 80s, 90s, and today!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://radiochoice.net/listen/mix.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>a-0 Retro Grooves</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All 80s and 90s Pop</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://radiochoice.net/listen/retrogrooves.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>a-0 The Office</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Office friendly Internet Radio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://radiochoice.net/listen/office.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>a-0 Warm FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Warm and soft hit favorites!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://radiochoice.net/listen/warmfm.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>A-1 Adult FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Radio for Adults</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.a1adultfm.com/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>A-1 Christmas Classics</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Fun Christmas Classics you know and love!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://x.a-1christmas.com/play/classics.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>A-1 Radio - The Variety Channel</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Best Mix of the 70's, 80's, 90's and today!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.a-1radio.com/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>96</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>abaRadio: Adult Hits</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Adult Alternative Station!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://abaradio.net/stations/adulthits.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>abaRadio: Office Favorites</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All day office music!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://abaradio.net/stations/officefavorites.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>ABC Stars 80s</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All 80s best mix</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.abcstars.net/abcstars80.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Absolute Mix Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Today's Best Music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://avbhost.com/listen/absolutemix/absolutemix128.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>AbsoluteChristmas.net</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your home for the holidays!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://absolutechristmas.net/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>AceRadio ^ The Mix Channel</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your best bet for internet radio.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.aceradio.net/itunes/mix.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>AceRadio.Net ^ Soft Hits Channel</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your best bet for internet radio!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://aceradio.net/itunes/softhits.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Adult Mix Channel on 977music.com</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best adult rock music from the 80s, 90s and today is played here</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.977music.com/itunes/mix.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>96</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>AllHeart Christmas</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Get in the mood for a more romantic Christmas with Allheart Radio’s Christmas station! </kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.yourchristmasstation.com/play/tcslive.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>AllHeart Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>It's brilliantly bright, easy listening radio - with an irresistible great feel good vibe! </kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.allheartradio.com/allheartlive.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>AllHeart Radio Two</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Even more irresistible smooth grooves and classic hits.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.allheartradio.com/allhearttwo.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>AllWebRadio - Holiday Hits</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Holiday Hits</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://avbhost.com/listen/xmas/hh128.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>AllWebRadio - Traditional Christmas</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All Your Holiday Favorites</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://avbhost.com/listen/xmas/xmas128.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>ALWAY'S CHRISTMAS CHANNEL</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Biggest Christmas Hits.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://kea.cdnstream.com/1837_128</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Always Office</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>A station always playing enjoyable office music!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://94media.net/listen/alwaysoffice/alwaysoffice128.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Antena A FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Esta é a Antena A FM, com música, informação e interatividade, diretamente de Santa Cruz do Rio Pardo.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://198.50.197.90:9910/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Antenna 1</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Antenna1 Rome - la radio che rispetta chi l'ascolta</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://s3.mediastreaming.it:7568/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Antenne MV LIVE</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>DER BESTE MIX. MEHR NEUE HITS</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.antennemv.de/antennemv-live/mp3-128/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>ANTENNE VORARLBERG</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mehr Vielfalt! Die besten neuen Hits und echte Kulthits!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://webradio.antennevorarlberg.at/live.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>ANTENNE VORARLBERG - 00er Hits</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing the greatest hits of the 2000ies!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://webradio.antennevorarlberg.at/00er.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>ANTENNE VORARLBERG Lovesongs</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Only the best love songs!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://webradio.antennevorarlberg.at/lovesongs.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Arabella Christmas</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Christmas - nonstop!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://arabella.stream.kapper.net:8017/arabellachristmas</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>96</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Arabella Live 105.2</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Das ist echte Abwechslung! Wo sonst gibt’s Kulthits aus vier Jahrzehnten gemischt mit der besten aktuelle Musik&#63; Das sind Elvis und die Beatles, Madonna und Phil Collins, Adele und Robbie Williams und Viele mehr. Dazu alles Wichtige aus München und der</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://rs26.stream24.net/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Arabella Wien</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Kulthits &amp; das Beste von Heute - das sind die größten Hits von den 60ern bis heute und natürlich viel Austropop. Einfach die perfekte Abwechslung! Zu jeder vollen Stunde hören Sie News aus Österreich und der Welt, und den ganzen Tag ausführliche Infos aus</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://arabella.stream.kapper.net:8000/arabellavie</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>At Work 104</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your all day office music station! - www.star104.net</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.star104.net/stream/atwork104.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>ATLANTIC RADIO France</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Atlantic Radio is an adult contemporary radio , listen to all the hits of the 90s until today</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://atlanticradio.fr/atlantic.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>320</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Atlantica</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La radio du Bassin d'Arcachon : musique des années 80 à aujourd'hui, actualité locale et bons plans</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://188.165.196.212:8000/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>160</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Atlantica Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Les plus grands classiques de la musique des années 50 à 80.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://188.165.196.212:8052/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>160</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Atlantica Soleil</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Sunny Music, au coeur du Bassin d'Arcachon !</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://188.165.196.212:8054/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>160</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Atom Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing The Music You Want To Hear</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://uk6.internet-radio.com:8520/stream&amp;radiotype&#61;shoutcast2</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Audiograted</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best mix of the 90's, Y2K, and today is here on Audiograted!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://audiograted.com/streaming/audiograted.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Australia128</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Aware. Australian. Alternative.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/australia-128</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>B4B RADIO 80s DANCE</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Funk, Dance, Disco, all the legends of the Dance-Music of the 80s and 90s.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.b4bradio.com/flux/dance-80.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Bates FM ^ Office Standards</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Streaming music to the masses!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.batesfm.com/itunes/officestandards.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Bay Trust Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>More music variety for Morecambe Bay</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://live.audiospace.co/baytrustradio.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>BBC Radio 2</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Amazing music. Played by an amazing line up.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://open.live.bbc.co.uk/mediaselector/5/select/mediaset/http-icy-mp3-a/vpid/bbc_radio_two/format/pls.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>A BEST CONTEMPORARY MUSIC RADIO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All today and yesterday best music mix</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://37.187.93.104:8812/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Best Net Radio - 70s and 80s</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your Best Bet For Internet Radio!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://bestnetradio.com/itunes/70s80s.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Best Net Radio - 80s and 90s Mix</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your Best Bet For Internet Radio!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://bestnetradio.com/itunes/80s90s.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Best Net Radio - Love Channel</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your Best Bet For Internet Radio!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://bestnetradio.com/itunes/love.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Best Net Radio - New Wave</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your Best Bet For Internet Radio!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://bestnetradio.com/itunes/new.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Best Net Radio - The Mix</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your Best Bet For Internet Radio!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://bestnetradio.com/itunes/mix.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Best Net Radio - Warm and Soft Hits</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your Best Bet For Internet Radio!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://bestnetradio.com/itunes/warm.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Big R Radio ^ Christmas Country</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Merry Christmas from Big R Radio! All the classic Christmas hits are played here, memories made and holidays remembered.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.grungefm.com/itunes/xmas-country.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Big R Radio ^ The Love Channel</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>A perfect office mix! All love songs from different decades played here, enjoy quality programming and great hi-fi sound.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.grungefm.com/itunes/loveHI.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Big R Radio ^ Warm 101.6</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description> Office friendly station.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.grungefm.com/itunes/softHI.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Blast The Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Radio on random, the best of everything</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://s1.myradiostream.com:9520/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Blue Roots Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>A progressive mix from all genres of music from all decades.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.live365.com/a90706</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Boracay Beach Radio (Philippines)</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Music from paradise. An eclectic mix of feel good music.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://s7.viastreaming.net:8390/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Breeze - The Best Music</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Radio station playing a blend of music ideal for a worldwide at work audience</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://s44.myradiostream.com:5670/listen.pls&#63;sid&#61;1</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Breeze Radio at Christmas</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing a romantic, classic selection of warm festive favourites.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.yourchristmasstation.com/breezelive.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Cabo Branco FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Cabo Branco FM: Só Coisa Fina. A rádio mais musical da Paraíba</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://audio.cabobranco.tv.br:8000/cbfm</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>96</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Cadena Dial</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Lo mejor de nuestra música</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/CADENADIALAAC.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CALMRADIO.COM – BALANCE</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Balance channel for relaxation</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://calmradio.com/playlists-free/balance.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CALMRADIO.COM – BROADWAY MUSICALS</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>From Gershwin to Porter and Webber...it's here!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://calmradio.com/playlists-free/musicals.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CALMRADIO.COM - CHRISTMAS - Free Sampler</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Popular christmas music, from solo piano to classics</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://calmradio.com/playlists-free/christmas.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CALMRADIO.COM – CHRISTMAS MEGA MIX</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Selection of Top 40 Pop christmas and holiday music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://calmradio.com/playlists-free/christmasmegamix.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CALMRADIO.COM – DISNEY</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Great selections from various Disney movies</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://calmradio.com/playlists-free/disney.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CALMRADIO.COM – FOLK TODAY</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Today's Folk Music on CALMRADIO.COM</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://calmradio.com/playlists-free/folktoday.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CALMRADIO.COM – KIDZ</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Wonderful fun music for children</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://calmradio.com/playlists-free/kidz.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CALMRADIO.COM – LULLABY</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Curl up and cuddle up music to help promote sleep</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://calmradio.com/playlists-free/lullaby.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CALMRADIO.COM – REIKI</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Relaxation Reiki Music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://calmradio.com/playlists-free/reiki.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CALMRADIO.COM - SOLO GUITAR - Free Sampler</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Acoustic folk and new age solo guitar from Eltjo, Tommy Emmanuel, Will Ackerman and many many more.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://calmradio.com/playlists-free/sologuitar.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Cambridge 105 Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Music and Features from the University City</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.cambridge105.fm/105-192s-mp3</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Camelot Radio.es</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>24/7 Rock &amp; Pop Music from 1950 until today</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://195.154.32.240:8437/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Canal Voyage</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>4h/24h et 7jours/7, nous vous invitons au voyage, à la découverte, à la curiosité avec des émissions qui sortent des sentiers battus et vous incitent à la réflexion...</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://ns336770.ip-5-39-71.eu:2199/tunein/canalvoyages.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CHERIE FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Chérie FM Pop Love Music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3&#63;origine&#61;itunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CHERIE FRENCHY</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La radio de vos artistes français préférés</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.nrjaudio.fm/adwz1/fr/30213/mp3_128.mp3&#63;origine&#61;itunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CHERIE NOUVEAUTES</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La radio des nouveautés Pop Love Music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.nrjaudio.fm/adwz1/fr/30255/mp3_128.mp3&#63;origine&#61;itunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CHERIE ROMANTIC</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La Pop Love Music des amoureux</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.nrjaudio.fm/adwz1/fr/30287/mp3_128.mp3&#63;origine&#61;itunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CHERIE ZEN</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La Pop Love Music Soft &amp; Jazzy</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.nrjaudio.fm/adwz1/fr/30203/mp3_128.mp3&#63;origine&#61;itunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>COLOURFUL</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Soulful music with chat</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://mp3.colourfulradio.com/colourful</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Cool Music!</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The coolest music of the past four decades: Soundtracks, Pop, Rock, New Wave, Electronic &amp; Dance</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/coolmusic.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Countdown2.Christmas Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Year-round access to the best Christmas music on the planet!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://countdown2.christmas/radio/radio.countdown2.christmas.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>CRIK FM - The Lynx Classic Hits</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing the biggest hits from yesterday and today (www.lynxradionetwork.com)</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.lynxradionetwork.com/crikisdn.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>96</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Dancefoxhoelle</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Der neue Sound im Netz</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://s12.derstream24.de:8100/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Demoiselle FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>DEMOISELLE FM radio broadcasting local news, music from 80’s to nowadays and programs links with listeners.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.demoisellefm.com:8000/rochefort-192.mp3</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Desert Radio AZ</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Billboard Hits, Country,Rock,Urban</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://naxos.cdnstream.com/1381_128</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Doctor FM Romania</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Best love songs ever</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://82.78.191.161:8000/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Energy Groove UK</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Hit music station - A division of E.G Media</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams4.museter.com:2199/tunein/energy110.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Expres FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your favorite mix from indie rock to dance music with focus on the latest releases.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://api.expresfm.cz/stream/redirect</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Fiesta Hoy</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Inspirational Latino. Música que alegra tu día y fortalece tu vida.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>https://mp3.cbn.com/stream/hoy128&#63;app&#61;itunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Fylde Coast Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>" …for the music you don't hear anywhere else</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.radio.co/sc1f79946e/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Gold Fréquence 3</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The French Station with Only the best Pop Music from Yesterday to Today No Ads</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://ice.stream.frequence3.net/frequence3ac-128.mp3</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>GOLD WEB RADIO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best of 70's, 80's, 90's and today! Radio of Brazil.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stm28.srvstm.com:25856/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>GotRadio - The Mix</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best blend of adult pop hits from the past 3 decades.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.gotradio.com/itunes/the_mix_aacplus.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Gotradio ^  AAA Boulevard</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Office friendly streaming a tasty blend of the top adult alternative artists</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.gotradio.com/itunes/adult_alternative_aacplus.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>GotRadio ^  P.S. I Love You</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>A loving blend of the best love songs and power ballads of all time!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.gotradio.com/itunes/ps_i_love_you_aacplus.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Green Room [RadioAvenue.com]</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Easy listening, Lounge and Big Band. Music as Unique as You.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://209.95.50.189:2199/tunein/ralounge.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Groove &amp; Smooth</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>That's my Radio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://radiart.eu:2199/tunein/groovesmooth.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>320</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>HAMBURG ZWEI</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>HAMBURG ZWEI ist der Radiosender mit den meisten 80ern für Hamburg, gemischt mit Songs aus den 70er und 90ern und einer Prise 2000er.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.hamburg-zwei.de/hh2-live/mp3-128/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Happy Christmas radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Every day is Christmas on Happy Christmas radio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.happychristmasradio.net/streaming/happychristmasradio.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Havenstad Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Happy local radio from Rotterdam, The Netherlands</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://mediaserv33.live-streams.nl:2199/tunein/havenstadradio.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Hereford Hospital Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Songs you Love People you know</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://webradio.radiomonitor.com/stream/HHR</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>HIT FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>From 90s up to today. Only hits!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://online-hitfm2.tavrmedia.ua/HitFM</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Hit Music Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Best Variety of Hits!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://149.255.59.3:8075/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Hotel And Tourist Radio - HTR</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>LA's Hits &amp; Memories</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://s4.total-streaming.com:9334/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>HOTMIXRADIO HOT</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Sexy &amp; love - Hotmixradio hot (Paris, France)</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.hotmixradio.fr/stream/itunes/ituneshotmixhot.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>HTR Gold Coast</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Yesterday's Favourites &amp; Today's Hits</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://s4.total-streaming.com:8000/htrgoldcoast</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>HTR Hawaii</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Yesterday's Favourites &amp; Today's Hits</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://s4.total-streaming.com:9334/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Hugot Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Hugot Radio plays the best Hugot Music. The first and only Hugot Radio in the Philippines!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://85.93.91.10:8192/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>IP music Slow - Suisse</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All the best slows, no talk!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.ipmusicslow.ch/ipmusicslowaacplus128.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>iradiophilly Iris</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Philadelphia's Hits to Keep You Smiling</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://kmr.iad.streamguys1.com/isis.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>JACK FM - NUR DIE HITS</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Der Sound ist neu! Der Mix ist einzigartig. JACK FM bringt dir exklusiv für Deutschland den aktuellsten Sound mit NUR DEN HITS. Schalt ein und sei gut drauf!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.jackfm.de/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>JACK fm Oxfordshire</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing What We Want</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/JACK_FM_AAC.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Jim FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing Whatever We Feel Like!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://avbhost.com/listen/jimfm/jim128.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Joy FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Adult Contemporary - Go to karnaval.com for full experience</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/JOY_FM_ITUNES.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Kitten D'Amour Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Beautiful music, played 24 hours a day!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.streamvortex.com:10120/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Kıyı Müzik</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>An indipendent music radio from Istanbul</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://proxima.shoutca.st:8223/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>KUHS Radio/TV Denver</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Sports -Talk- Music- Spanish</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://kuhs.getmyip.com:8000/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>96</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>KyXy 96.5</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Kyxy 'kick-see' 96.5, no repeat workdays &amp; love songs nights.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/KYXYFMAAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>LASAR Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Leek and Surrounding Area Radio. Putting the fun back into radio.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://149.255.59.164:8104/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>laut.fm/disco</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing 70s, 80s disco, funk, freestyle and high-energy music.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/disco.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>laut.fm/italo-disco</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing 80s Italo-disco and Eurodisco.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/italo-disco.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>laut.fm/radio-kunterbunt</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix of 50's, 60's, 70's, 80's, 90's, 2K's and today</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/radio-kunterbunt.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>laut.fm/SmoothXmas</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth Christmas tunes - happy holidays!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/smoothxmas</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Léttbylgjan</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>More Music, Less Talk</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://icecast.365net.is:8000/orbLettBylgjan.aac.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>LexoRadio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La Radio du Pays d'Auge</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.lexoradio.fr/play.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Lite Rock 93R WRRR-FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Mid-Ohio Valley's Home for Today's Hits and Yesterday's Favorites</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://ice3.securenetsystems.net/WRRR</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Litibú Fm</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>70s, 80s, 90s &amp; Today</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://91.121.155.204:8004/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>LOUNGERADIO.org (MRG.FM)</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Sit back and relax&#59; we will take care of the music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.mrg.fm:8060/stream2</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>LOVETIMES</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Romantic Music Hits</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://mp3.radiolovetimes.com:8280/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>LTD Radio, The Power of Positive</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Great Music and the power of positive</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streamingthatdoesntsuck.com:8006/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Lush from SomaFM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Sensuous and mellow vocals, mostly female, with an electronic influence.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://somafm.com/lush.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>M80 Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La emisora de la buena música</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/M80RADIOAAC.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Matinee Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Greatest Musicals</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://rss-streaming.co.uk/proxy/matinee&#63;mp&#61;/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>MDR SACHSEN - Das Sachsenradio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>MDR SACHSEN - Das Sachsenradio - einfach gute Musik. Mit Oldies und Hits unterhaltsam durch den Tag - dazu Aktuelles und Liveberichte aus allen Regionen Sachsens.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://avw.mdr.de/streams/284280-0_mp3_high.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>MDR SACHSEN - Sorbisches Programm</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>MDR SACHSEN - Sorbisches Programm sendet wöchentlich insgesamt 21 Stunden in obersorbischer Sprache aus dem Regionalstudio Bautzen.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://avw.mdr.de/streams/990100-0_mp3_high.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>MDR SACHSEN-ANHALT - Das Radio wie wir</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Musik zum Wohlfühlen, Informationen aus Sachsen-Anhalt rund um die Uhr, Geschichten über Land und Leute sowie Service von A bis Z – das ist MDR SACHSEN-ANHALT.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://avw.mdr.de/streams/284290-0_mp3_high.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>MDR SCHLAGERWELT Sachsen</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>MDR SCHLAGERWELT sendet rund um die Uhr deutschen Schlager, dazu Nachrichten, Wetterberichte und regionale Informationen aus Sachsen, Sachsen-Anhalt und Thüringen.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://avw.mdr.de/streams/990801-0_aac_high.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>MDR SCHLAGERWELT Sachsen-Anhalt</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>MDR SCHLAGERWELT sendet rund um die Uhr deutschen Schlager, dazu Nachrichten, Wetterberichte und regionale Informationen aus Sachsen, Sachsen-Anhalt und Thüringen.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://avw.mdr.de/streams/990701-0_aac_high.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>MDR SCHLAGERWELT Thüringen</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>MDR SCHLAGERWELT sendet rund um die Uhr deutschen Schlager, dazu Nachrichten, Wetterberichte und regionale Informationen aus Sachsen, Sachsen-Anhalt und Thüringen.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://avw.mdr.de/streams/990601-0_aac_high.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>MDR THÜRINGEN - Das Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>MDR THÜRINGEN – Das Radio bietet Musik zum Wohlfühlen, einfach "Musik, die bleibt". Neben Nachrichten aus Thüringen, Deutschland und der Welt gibt es vor allem aktuelle Meldungen aus der Region.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://avw.mdr.de/streams/284300-0_mp3_high.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Metro Romerike</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mer variert musikk med nyheter fra Romerike</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.radiometro.no/romerike128.mp3</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Michael Thomas Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All Hits! All The Time!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.radio.co/s5a3d2e9c0/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>MIX 96</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing more soft rock in the morning and all day long!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/KYMXFMAAC.pls&#63;SRC&#61;CBS&amp;DIST&#61;iTunes&amp;TGT&#61;iTunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Mixtape - All Love</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All the best love songs</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://hearme.fm:8588/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>MixVibez Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Bringing you the greatest of Classics, R&amp;B, Rock, Techno, dance and so much more…</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://s4.streammonster.com/tunein.php/vibmed00/playlist.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Mountain Stream Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Adirondack History and Music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://50.7.71.27:9659/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Multiradio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>musica e informazione dal cuore delle Marche / music and news from the heart of the Marches region of Italy</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://s6.mediastreaming.it:9094/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>my105 All The Hits</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All The Hits from die 80s, 90s, 00s and Today!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.my105.ch/my105allthehits.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>NEMO RADIO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>For the pleasure of your ears!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://91.121.153.12:9154/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>NEON Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>80s &amp; 90s Pop &amp; Dance</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://s44.myradiostream.com:5670/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>NOSTALGIE</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Nostalgie les plus grandes chansons</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3&#63;origine&#61;itunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>NOSTALGIE GENERATION 80</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Les plus grandes chansons de Génération 80</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.nrjaudio.fm/adwz1/fr/55524/mp3_128.mp3&#63;origine&#61;itunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Nova Radio North East</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Community radio station</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>https://orion.shoutca.st/tunein/novaradione.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>NRJ HITS</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Tous les Hits NRJ</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.nrjaudio.fm/adwz1/fr/30043/mp3_128.mp3&#63;origine&#61;itunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>NRJ MADE IN FRANCE</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Tous les Hits Français</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3&#63;origine&#61;itunes</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Oasis – OasisRadio.US</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Timeless Classics of the 50s, 60s, 70s and 80s</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://ks2.getstreamhosting.com:2199/tunein/wtyfmivs.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>OCS Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>We are music, through live dj's, unplugged sessions and good old classics you will always have something to listen to. Bringing you the best South Africa has to offer.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>https://stream.radio.co/s36190d03d/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Party MIXX</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>It's party time at the beach or the backyard!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.djcmedia.com/90mixxhigh</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>PARTY VIBE RADIO : JAZZ + BLUES + COUNTRY</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Jazz, Country, Folk and Blues.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.partyviberadio.com:8020/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>320</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>peperadio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>pop and rock hits from the 70s until today</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://server7.emitironline.com:8000/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Perpetuum Music Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Best hits of Perpetuum Music record label artists</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream0.radiostyle.ru:8000/perpetuummusic.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Phonic FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Exeter’s sound alternative – a community station for the city and beyond.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.phonic.fm/mp3-160k</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>160</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Poptastic Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Sounds So British! Radio dédiée à la scène Pop Anglaise</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.radioking.com/play/poptastic-radio</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>POWER 90.1</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Hit Music Station</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://ice42.securenetsystems.net/PWR901</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Powerhitz.com - The OfficeMix</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>#1 For Soft Rock &amp; Pop</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.powerhitz.com/office.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Provence Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Bienvenue au coeur de la Provence et sur la Côte d'Azur</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.provence-radio.com:8030/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>PylosLive Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best hits on the air ever.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://91.121.205.70:14374/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>QMR Easy</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Music To Relax To</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://78.129.146.97:7027/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>QMR Two</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your Station, Your Music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://78.129.146.97:7003/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>R.SA - Die Offizielle Partywelle</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>R.SA - Partywelle</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.rsa-sachsen.de/rsa-partywelle/mp3-128/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>R.SA - Mit Böttcher &amp; Fischer Live</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>R.SA – Mit Böttcher &amp; Fischer</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.rsa-sachsen.de/rsa-live/mp3-128/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>R.SH auf Sylt</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>R.SH auf Sylt mit Carsten Köthe</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.rsh.de/rsh-sylt/mp3-192/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>R.SH Live</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>R.SH-Livestream – Hier gibt es aktuelle Hits und Ihre Lieblingssongs der 80er und 90er im besten Mix für Schleswig-Holstein.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.rsh.de/rsh-live/mp3-128/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>R.SH Mittmann-Mix</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mittmann-Mix - R.SH Moderator Volker Mittmann präsentiert den besten Party-Mix zum Feiern.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.rsh.de/rsh-mittmannmix/mp3-128/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RADCP</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La radio des fans de Disney !</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://mystreamonair.com:2199/tunein/radcp.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio 182</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Radio voor Midden Holland</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.radio182.nl:8182/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>256</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio 182</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Radio voor Midden Holland</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.radio182.nl:8182/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>256</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio 24</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>No.1 radiostation from Zurich "Das isch Zueri"</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://icecast.radio24.ch/radio24</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio 3,16</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Norways No. 1 contemporary christian channel broadcasting 24/7 on WEB and DAB</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>https://streaming.radio.co/se326fb378/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio A1A™</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Classic Trop Rock 24/7</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://usa11.fastcast4u.com:5048/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Agorà 21</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La web radio di Orbassano e dintorni</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://94.23.6.107:8068/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Bellissima</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La musica della tua vita…</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cabhs30.sonixcast.com:9336/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Bollicine</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>L'Italiana…</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://144.217.180.30:8029/&#59;</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Brocken Lovesongs</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Die schönsten Lovesongs aller Zeiten!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.radiobrocken.de/love/mp3-256/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>256</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Cafe Romania</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>...muzica de poveste </kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://live.radiocafe.ro:8064/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Free Americana</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Twang meets pop</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://radiofreeamericana.com/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio GaGa.FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Das Münchner Webradio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://gaga.fm/mp3-stream.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>160</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Hamburg</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Radio Hamburg begleitet Sie mit den Mega-Hits der 90er, 2000er, 10er und dem Besten von heute gut gelaunt durch den Tag</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.radiohamburg.de/rhh-live/mp3-128/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Jammonite</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>JAMMONITE radio offers harmonious and skillfully devised playlists compiled by top local and international DJs for your needs. Our choice of music is adjusted to the wide audience, but also to the picky crowd. Our music offers positive vibrations and g</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://audio.jammonite.com:8000/airtime_128</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Love Live</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Radio love live, sentimental music 24 hours a day. Live from New York City.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://service.radiostreamlive.com/channel/radiolovelive/feed/itunes_128.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Maritima</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La radio de Martigues</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.streamakaci.com/radios/radiomaritima.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Médecine Douce</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Radio Medecine Douce is a web radio speaking about alternatives medecines and well-being by professionnals.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://music.radiomedecinedouce.com/medecinedouce.mp3</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Melodia</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Native and favorite songs</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://online-radiomelodia.tavrmedia.ua/RadioMelodia</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Nordseewelle</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Wir sind die Neuen in euerem Radio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.radio-nordseewelle.de/live/mp3-192/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RADIO PSR Chillout</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>RADIO PSR Chillout</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.radiopsr.de/chillout/mp3-128/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RADIO PSR Live</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>RADIO PSR – Der Supermix für Sachsen</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.radiopsr.de/psr-live/mp3-128/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RADIO PSR Sachsensongs</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Wie Weltstars auf Saechsisch klingen, hoeren Sie hier.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.radiopsr.de/sachsensongs/mp3-128/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Regenbogen -  Südbaden und der Schwarzwald</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mein Lieblingsmix</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.regenbogen.de/rr-freiburg-128-aac&#63;usid&#61;0-0-H-A-D-45</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Regenbogen - Adler Mannheim</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Das Adler-Mannheim Web-Radio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.regenbogen.de/rr2-rn-128-aac&#63;usid&#61;0-0-H-A-D-45</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Regenbogen - Baden und die Pfalz</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mein Lieblingsmix</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.regenbogen.de/rr-karlsruhe-128-aac&#63;usid&#61;0-0-H-A-D-45</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Regenbogen - Metropolregion Rhein-Neckar</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mein Lieblingsmix</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.regenbogen.de/rr-mannheim-128-aac&#63;usid&#61;0-0-H-A-D-45</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Relax</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Light and quiet radio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://online-radiorelax.tavrmedia.ua/RadioRelax</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>radio SAW</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Superhits fürs SAW-Land</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.saw-musikwelt.de/saw/mp3-128/itunes/stream.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>radio SAW-2000er</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Die größten Songs der 2000er</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.saw-musikwelt.de/saw-2000er/mp3-128/itunes/stream.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>radio SAW-Deutsch</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Die besten deutschen Songs</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.saw-musikwelt.de/saw-deutsch/mp3-128/itunes/stream.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Ton - Kuschelsongs</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Der beste Musikmix aus 4 Jahrzehnten</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://live.radioton.de/rt-kuschelsongs&#63;usid&#61;0-0-H-M-V-45</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Ton - Pop</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Der beste Musikmix aus 4 Jahrzehnten</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://live.radioton.de/rt-pop&#63;usid&#61;0-0-H-M-V-45</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Ton - PopUpChannel 1</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Der beste Musikmix aus 4 Jahrzehnten</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://live.radioton.de/rt-popupchannel&#63;usid&#61;0-0-H-M-V-45</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Ton - PopUpChannel 2</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Der beste Musikmix aus 4 Jahrzehnten</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://live.radioton.de/rt-popupchannel2&#63;usid&#61;0-0-H-M-V-45</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Radio Xiuxiu</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Disfruta de tus sentidos con la mejor música pop, indie, rock, dance, R&amp;B, hits 80s-90s-00s 24h.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://live.radioxiuxiu.com:8040/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RadioVostok</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Défriche le son</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://statslive.infomaniak.com/playlist/radiovostok/radiovostok.aac/playlist.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Real Radio Daytona</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Daytona Beach's one &amp; only soft rock radio station.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://realradiodab2.serverroom.us:4442/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Regenbogen Zwei</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Maximum Rock ’n Pop</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streams.regenbogen.de/rr2-bw-128-aac&#63;usid&#61;0-0-H-A-D-45</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RetroRadio.FM - Smooth Easy Hits</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All Your Lite &amp; Easy Favorites From The 60's 70's 80's To Today.. You Will Turn It On &amp; Leave It On.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.retroradio.fm/smootheasy_mp3.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RFT Charme</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>La selezione raffinata di RFT, grandi voci e grandi artisti.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://178.209.40.106/stream/rftcharme.pls&#63;mp&#61;/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Rhubarb Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Tasty Sound For The Wakefield District &amp; South Leeds!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://sc4.easywebcommunications.com:2199/tunein/radio25live.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RIO SUL RADIO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>O RADIO CHEGOU AO FUTURO</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.riosulradio.com/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Riviera Radio 106.5FM Monaco</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Riviera Radio 106.5FM Monaco in English!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://statslive.infomaniak.ch/playlist/rivieraradio/rivieraradio-high.mp3/playlist.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RTL – Deutschlands Hit-Radio 93.3 – 97.0</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Deutschlands Hit-Radio 93.3 – 97.0 - 93.3 – 97.0 RTL Deutschlands Hit-Radio ist ein deutschsprachiges Radioprogramm mit Sitz in Luxemburg.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.rtlradio.de/rtl-de-ukw/aac-64/itunes/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RTL – Die besten Hits aller Zeiten</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>RTL Deutschlands Hit-Radio ist ein deutschsprachiges Radioprogramm mit Sitz in Luxemburg.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.rtlradio.de/rtl-de-beste-hits/aac-64/itunes/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>RTL2</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>RTL2, le son Pop-Rock</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://icecast.rtl2.fr/rtl2-1-44-128</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Secondradio.de - Your radio for your Second Life!</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your radio for your second life!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://secondstream.de:10001/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Severn FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>A 24 hours a day, 365 days a year Internet Radio Station playing the latest hits, oldies and some interesting specialist programs. Broadcasting to Gloucester, UK and around the world.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.severnfm.com:8000/96aacp</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Simple Pleasures WSPR</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Simple Pleasures WSPR Indie Soft Rock Station</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>https://ca3.radioboss.fm:2199/tunein/simplewspr.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Smooth Fm Lagos</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Smooth 98.1 Fm</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://smoothlive.smooth981.fm:8000/smoothlivefm128.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>The Soft Rock Channel</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best mix of songs for the workday or any day</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.thesoftrockchannel.com/TSRC128k.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Sound of the Season</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Sound of the Season is premium Christmas audio entertainment featuring the songs, stories and traditions we love, 365 days of the year. Sound of the Season features the essential mainstream pop Christmas songs found in living room collections across t</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>https://streamer.radio.co/sd80120679/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>soundirection fm 101</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Best Variety of music from 60s 70s 80s 90s</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://sc3.spacialnet.com:31640/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Splash-fm</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The 80s and More…</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://199.180.72.2:9001/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Star Radio Athens</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best hits of the 80s, 90s, and today, commercial-free!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://starradioathens.no-ip.biz:8000/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Starflight Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>A unique blend of music from today's Adult Contemporary hits to oldies</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.radionomy.com/starflightradio.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Starlite</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Soft &amp; Brite</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://centova.radioservers.biz:8021/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>SUN</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>SUN Le Son Unique, station de radio locale implantée à Nantes (93FM), Cholet (87.7FM) et à Saint-Nazaire (Digital Radio).</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.lesonunique.com/sun.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>160</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>SuperYacht Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Global Super Yacht Community Radio Station</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>https://stream.radio.co/s9be1fd909/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>320</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>SuperYacht Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Global Super Yacht Community Radio Station</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>https://stream.radio.co/s9be1fd909/listen</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>320</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Swisssh Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>We Play Favourites</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://centova.radioservers.biz:8004/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>TNT Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The biggest hits from 4 decades - Commercial free</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://cp.usa14.fastcast4u.com:2199/tunein/tanderse.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>320</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Touristico radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Music from your holidays.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://touristico.be/stream/touristico.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Traxx Gold Hits</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Very best of 70's-80's-90's</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://traxx017.ice.infomaniak.ch/traxx017-low.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Tropicalisima.fm Oldies</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The Best of The Oldies</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://tropicalisima.net:8100/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>UKWA Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Perth's British Radio Station</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://webcast-connect.net/premium/usa2/8060/listen.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>ULRN-AM, Taylors/Wade-Hampton, SC</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Ambitious effort to serve the SC Upstate with hyper-local AM radio. Adult hits, info, entertainment.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://ulrn.radiostation.audio/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>96</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>V96.9</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The mid-Ohio Valley's home for maximum music and true variety.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://ice5.securenetsystems.net/WVVVFM</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>VARIETAS RADIO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Commercial Free Hits from the 70s, 80s, 90s &amp; Now!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://thassos.cdnstream.com:5225/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Venture Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Venture Radio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.ventureradio.co.uk/listen/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Verten Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Station description is radio with passion for music.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://server-06.stream-server.nl:8620/listen.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Virgin Radio Turkiye</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Hot/Modern A/C - Go to karnaval.com for full experience</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/VIRGIN_RADIO_ITUNES.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WIZD 103.5 FM - TheRadioWizard.com</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>"Playing the best of the best"</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://108.163.197.114:8107/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WKSU: Folk Alley</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>WKSU</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.folkalley.com/folkalley-aacplus64.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>WKSU: Folk Alley Fresh Cuts</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>WKSU</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.folkalley.com/freshcuts.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>0</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Yes FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Yes FM, I love music. The best Pop-rock radio station in Switzerland !</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://statslive.infomaniak.com/playlist/yesfm/yesfm-high.aac/playlist.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>ZEPHYR PLANET</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Radio full of melody! Zephyr Planet Radio welcomes you to our planet, and we hope your visit provides you with relaxation and renewed spirit.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://streaming.live365.com/a03626</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>Zero Alpha Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>No adverts and no f*cking Justin Bieber</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.spacial.com/api/listen/&#63;sid&#61;5692&amp;method&#61;sc&amp;rid&#61;853926</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>ZONE RADIO CH</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>(RE)DISCOVER MUSIC</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/zone.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.011FM - Adult Standards</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your favorite warm hits! - @011fmradio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://011fm.com/listen/adultstandards.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.011FM - Holiday Christmas</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing the greatest Christmas Classics - @011fmradio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://011fm.com/listen/holidaychristmas.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.011FM - Holiday Soundtrack</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>The best Holiday Soundtracks, 24/7 - @011fmradio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://011fm.com/listen/holidaysoundtrack.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.011FM - Holiday Standards</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>24/7 Holiday Standards - @011fmradio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://011fm.com/listen/holidaystandards.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.011FM - Lite Office Hits</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Playing the best lite office hits! - @011fmradio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://011fm.com/listen/officehits.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.011FM - Sounds of Christmas</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your Christmas favorites, 24/7 - @011fmradio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://011fm.com/listen/soundsofchristmas.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.011FM - The Office Mix</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your office friendly mix! - @011fmradio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://011fm.com/listen/officemix.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>1000 Christmashits</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Fröhliche Weihnachten überall! Merry Christmas!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.laut.fm/1000christmashits</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>1000 HITS Love</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>24/7 love &amp; romantic songs</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://c2.auracast.net:8097/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>102,6 Guldkanalen</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Musik för vuxna öron</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.dbmedia.se/gkMP3</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>96</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>104.5 KFOG</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>World Famous KFOG</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://provisioning.streamtheworld.com/pls/KFOGFMAAC.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>104.6 RTL</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Berlins Hit-Radio</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.104.6rtl.com/rtl-live/mp3-128/itunes/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>104.6 RTL Berlins Hitradio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mehr Abwechslung und weniger Wiederholungen mit den besten neuen Hits und den RTL Greatest Hits. - Mehr Abwechslung und weniger Wiederholungen mit den besten neuen Hits und den RTL Greatest Hits.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.104.6rtl.com/rtl-live/aac-64/itunes/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>105.5 Spreeradio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Die besten Songs aller Zeiten und das Beste von heute!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.spreeradio.de/spree-live/mp3-128/itunes/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>105'5 Spreeradio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>der 50/50 Mix - Der 50/50 Mix mit den besten Songs aller Zeiten und dem Besten von heute!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.spreeradio.de/spree-live/aac-64/itunes/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>105'5 Spreeradio Love </kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Die besten Lovesongs aller Zeiten und von heute im 50/50 Mix. - Große Songs um große Gefühle, einfach Streicheleinheiten für Ihre Ohren.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.spreeradio.de/spree-love/aac-64/itunes/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>106.9 SFM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>We deal with issues such as the environment, health, crime prevention, religious and social affairs, consumer issues, women and young people, education, community involvement, the regeneration plans being developed for the area and day to day events.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://149.255.59.164:8134/stream</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>106.9 The Arrow</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Hot 100 Station playing the best music from the 80’s to today</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://96.93.217.100:8000/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Area 51</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: EDM, DJ Sets &amp; Remixes | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/area51.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM BPM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: EDM, Dance Hits &amp; Remixes | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/bpm.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Energy</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Rhythmic Pop &amp; Dance Hits | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/energy.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Hitz UK</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Top 50 Hits UK 2017 | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/hitzuk.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Hitz USA</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Top 50 Hits USA 2017 | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/hitzusa2017.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Hitz USA - 2010</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Top 50 Hits USA 2010 | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/hitzusa2010.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Hitz USA - 2011</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Top 50 Hits USA 2011 | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/hitzusa2011.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Hitz USA - 2012</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Top 50 Hits USA 2012 | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/hitzusa2012.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Hitz USA - 2013</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Top 50 Hits USA 2013 | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/hitzusa2013.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Hitz USA - 2014</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Top 50 Hits USA 2014 | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/hitzusa2014.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Hitz USA - 2015</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Top 50 Hits USA 2015 | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/hitzusa2015.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Hitz USA - 2016</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Top 50 Hits USA 2016 | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/hitzusa2016.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Lovers Lane</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: ‘80s &amp; ‘90s Love Songs | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/loverslane.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM Q-Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: LGBT Talk Radio &amp; EDM | Twitter @113fmQradio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/q-radio.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM The Coast</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Easy Listening 70s, 80’s, Pop, Soft Rock | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/thecoast.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>.113FM The Mixx</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Mix: Easy Listening 90s &amp; 2K+ | Twitter @113fmRadio | Download our free .113FM mobile app today.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.113.fm/themixx.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>181.fm ^ The Heart (Love Songs)</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Continuous love songs!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://www.181.fm/tunein.pls&#63;station&#61;181-heart</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>2oceansvibe Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>2ovfm SA's biggest digital station!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://playerservices.streamtheworld.com/pls/OCEANSVIBEAAC.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>40UP RADIO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Listen to the Music</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://radio.40up.nl/40up1.m3u</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>192</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>40UP Radio</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Dit is 40UP Radio, hét internet radiostation voor non-stop muziek voor en door muziekliefhebbers. Met albumtracks en nummers van tijdloze en nieuwe artiesten, die je niet meer hoort op de hedendaagse radio.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://radio.40up.nl/40up1</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>80s OFFICE - BE GOOD RADIO</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>All 80s, all the time!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://begoodradio.com/itunes/office.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>89.0 RTL  Love</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>89.0 RTL schenkt Dir Liebe mit den besten Lovesongs!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream.89.0rtl.de/love/mp3-256/itunes/play.pls</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>256</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>94.7 The Point WLYT</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Four decades of the Best Classic Hits ever made!</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://listen.947thepoint.com:8000/wlyt</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>64</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>97 Lite FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Your Soft Rock Station</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://50.7.99.163:16062/</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>128</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+<kb:station_record>
+<kb:station>98five Sonshine FM</kb:station>
+<kb:description>foobar</kb:description>
+<kb:long_description>Perth’s number one family, community radio station live streaming a mix of adult contemporary mainstream and Christian music.</kb:long_description>
+<kb:num_users>1</kb:num_users>
+<kb:max_users>100</kb:max_users>
+<kb:station_url_record>
+<kb:url>http://stream2.cnmns.net/sfm</kb:url>
+<kb:status_code>200</kb:status_code>
+<kb:bandwidth_kbps>32</kb:bandwidth_kbps>
+</kb:station_url_record>
+</kb:station_record>
+</kb:results></kb:Kerbango>
