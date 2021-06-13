@@ -20,7 +20,7 @@ elif echo $QUERY_STRING | grep -q "tuning_id=102" ; then
 elif echo $QUERY_STRING | grep -q "tuning_id=103" ; then
 	cat $DOCUMENT_ROOT/xml/eclectic.xml
 elif echo $QUERY_STRING | grep -q "tuning_id=112" ; then
-	cat $DOCUMENT_ROOT/xml/jass.xml
+	cat $DOCUMENT_ROOT/xml/jazz.xml
 elif echo $QUERY_STRING | grep -q "tuning_id=120" ; then
 	cat $DOCUMENT_ROOT/xml/reggae-island.xml
 elif echo $QUERY_STRING | grep -q "tuning_id=163" ; then
