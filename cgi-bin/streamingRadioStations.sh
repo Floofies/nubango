@@ -5,7 +5,7 @@ if (( $EUID == 0 )); then
 	echo "Here be dragons. Exiting..."
 	exit 125
 fi
-echo "Content-type: text/xml
+echo "Content-Type: text/xml
 "
 if echo $QUERY_STRING | grep -q "tuning_id=-12" ; then
 	cat $DOCUMENT_ROOT/xml/genres.xml
