@@ -1,10 +1,46 @@
-# nubango
-This is a proof-of-concept Mac OS X hack which uses Apache to mock Apple's now-defunct Kerbango radio tuner server. Currently testing with iTunes 4.
+# Nubango
 
-## How-To / Install
+Nubango is an iTunes-compatible Kerbango radio tuning server/proxy.
+
+Certain old iTunes versions like v4.x and below are no longer able to download any internet radio stations because they are using bad query strings in their HTTP requests; such old versions fail to download the Kerbango XML they need from the Apple/Kerbango Radio Tuning Service. To get things working again, iTunes can be made to communicate with Nubango instead of Kerbango.
+
+To get iTunes to load radio stations from Nubango, we must perform something akin to a "man-in-the-middle attack" by redirecting iTunes' HTTP requests to a Nubango server (locally or remotely), which can serve a locally-hosted XML station catalog.
+
+## :construction: *Project Status: Experimental*
+
+:warning: "Experimental" means two things: ~~Here be dragons~~ Nubango may cause damage to your system if you attempt to use it, because at-present it is mostly untested.
+
+The charts below both represent someone's past, someone's future, someone's blood, sweat, and tears. They're not crystal balls, but they can tell you which iTunes versions work with Nubango, which operating systems can host Nubango, and how far along the project is for each use-case.
+
+### :bomb: OS Compatibility Chart
+
+| Operating System | Compatibility Status | Project Status |
+| --- | --- | --- |
+| Mac OS X 10.4.11 | **OK** | 100% |
+| Mac OS X 10.3.9 | Untested | 0% |
+| Mac OS X 10.2.8 | Untested | 0% |
+| Mac OS X 10.1.5 | Untested | 0% |
+| Mac OS X 10.0.4 | Untested | 0% |
+| Mac OS 9.2.2 | Testing | 50% |
+| Mac OS 8.6 | Untested | 0% |
+
+*Other systems might be added later...*
+
+### :bomb: iTunes Compatibility Chart
+
+| iTunes Version | Compatibility Status | Project Status |
+| --- | --- | --- |
+| 9.x | Testing | 50% |
+| 4.x | **OK** | 100% |
+| 3.x | Untested | 50% |
+| 2.x | **OK** | 100% |
+| 1.x | Untested | 0%
+
+## :cd: How-To / Install
+
 You can run the included `install.sh` installation script, then skip to **Step 6**; or you can complete the all of the *DIY Install* steps below:
 
-### DIY Install
+### :wrench: DIY Install
 
 *For experienced users only. You risk damaging your system. Please read the included MIT "LICENSE" document.*
 
