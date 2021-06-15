@@ -16,6 +16,9 @@ The charts below both represent someone's past, someone's future, someone's bloo
 
 | Operating System | Compatibility Status | Project Status |
 | --- | --- | --- |
+| Windows 10 | Untested | 0% |
+| Linux (Debian) | Untested | 0% |
+| Linux (RedHat) | Untested | 0% |
 | Mac OS X 10.4.11 | **OK** | 100% |
 | Mac OS X 10.3.9 | Untested | 0% |
 | Mac OS X 10.2.8 | Untested | 0% |
