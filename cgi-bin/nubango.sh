@@ -42,7 +42,7 @@ elif echo $QUERY_STRING | grep -q "tuning_id=11" ; then
 elif echo $QUERY_STRING | grep -q "tuning_id=12" ; then
 	cat $DOCUMENT_ROOT/xml/blues.xml
 elif echo $QUERY_STRING | grep -q "tuning_id=14" ; then
-	cat $DOCUMENT_ROOT/xml/alt-rock.xml
+	cat $DOCUMENT_ROOT/xml/alternative-rock.xml
 elif echo $QUERY_STRING | grep -q "tuning_id=18" ; then
 	cat $DOCUMENT_ROOT/xml/classic-rock.xml
 elif echo $QUERY_STRING | grep -q "tuning_id=19" ; then
@@ -61,6 +61,8 @@ elif echo $QUERY_STRING | grep -q "tuning_id=8" ; then
 	cat $DOCUMENT_ROOT/xml/country.xml
 elif echo $QUERY_STRING | grep -q "tuning_id=9" ; then
 	cat $DOCUMENT_ROOT/xml/adult-contemporary.xml
+elif echo $QUERY_STRING | grep -q "tuning_id=1" ; then
+	cat $DOCUMENT_ROOT/xml/genres.xml
 else
 	cat $DOCUMENT_ROOT/xml/genres.xml
 fi
