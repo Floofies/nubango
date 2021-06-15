@@ -16,16 +16,16 @@ chown root:admin /Library/WebServer/CGI-Executables/nubango.sh
 mkdir /Library/WebServer/Documents/xml
 cp -r "$nubangoDir"/xml /Library/WebServer/Documents/
 chown -R root:admin /Library/WebServer/Documents/xml
-echo "***--- Adding new DNS mapping to /etc/hosts: 127.0.0.1 pri.kts-af.net ..."
+echo "***--- Adding new IP/Host pairs to /etc/hosts ..."
 if ! cat /etc/hosts | grep -q "127.0.0.1 pri.kts-af.net" ; then
 	echo "127.0.0.1 pri.kts-af.net" >> /etc/hosts
+	echo "::1 pri.kts-af.net" >> /etc/hosts
 fi
-echo "****-- Adding new RewriteRule to /etc/httpd/httpd.conf: RewriteRule \"^/xml/index\.xml$\" \"/cgi-bin/nubango.sh\" [PT] ..."
+echo "****-- Adding new RewriteRule to /etc/httpd/httpd.conf ..."
 if ! cat /etc/httpd/httpd.conf | grep -q "nubango.sh"; then
 	echo "RewriteRule \"^/xml/index\.xml$\" \"/cgi-bin/nubango.sh\" [PT]" >> /etc/httpd/httpd.conf
 fi
-apachectl configtest
-echo "*****- Starting Apache HTTP server..."
+echo "*****- Starting/Restarting Apache HTTP server..."
 apachectl restart
 echo "****** Nubango installation complete. Verify that port 80 is open at: http://127.0.0.1"
 exit 0
