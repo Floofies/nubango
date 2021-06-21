@@ -4,7 +4,7 @@ Nubango is an iTunes-compatible Kerbango radio tuning server/proxy.
 
 Certain old iTunes versions like v4.x and below are no longer able to download any internet radio stations because they are using bad query strings in their HTTP requests; such old versions fail to download the Kerbango XML they need from the Apple/Kerbango Radio Tuning Service. To get things working again, iTunes can be made to communicate with Nubango instead of Kerbango.
 
-To get iTunes to load radio stations from Nubango, we must perform something akin to a "man-in-the-middle attack" by redirecting iTunes' HTTP requests to a Nubango server (locally or remotely), which can serve a locally-hosted XML station catalog.
+To get iTunes to load radio stations from Nubango you must redirect iTunes' HTTP requests to a Nubango server (locally or remotely), which can serve a locally-hosted XML station catalog.
 
 ## :construction: *Project Status: Experimental*
 
@@ -33,40 +33,66 @@ The charts below both represent someone's past, someone's future, someone's bloo
 
 | iTunes Version | Compatibility Status | Project Status |
 | --- | --- | --- |
-| 9.x | Testing | 50% |
+| 9.x | **OK** | 100% |
+| 8.x | Testing | 50% |
+| 7.x | Testing | 50% |
+| 6.x | Testing | 50% |
+| 5.x | **OK** | 100% |
 | 4.x | **OK** | 100% |
-| 3.x | Untested | 50% |
+| 3.x | **OK** | 100% |
 | 2.x | **OK** | 100% |
-| 1.x | Untested | 0%
+| 1.x | **OK** | 100% |
 
-## :cd: How-To / Install
+## :wrench: How-To Patch / Install
 
-You can run the included `install.sh` installation script, then skip to **Step 6**; or you can complete the all of the *DIY Install* steps below:
+- To patch an iTunes binary such that it is redirected to localhost, run the included `patcher.sh` installation script in Terminal. Nubango must already be running on the same system.
+- To self-host Nubango on Mac OS X 10.4, run the included `install.sh` installation script and then enable "Personal Web Sharing".
+	- Open http://127.0.0.1 and http://127.0.0.1/xml/index.xml in your web browser to ensure that the HTTP server is working properly.
+- There are also several useful *DIY Installation* steps below which take advantage of system-level hacks rather than patching the iTunes binary.
 
-### :wrench: DIY Install
+### Option 1: Patching iTunes Binaries
+
+`patcher.sh` does a simple string replacement on an iTunes binary executable, replacing all instances of `pri.kts-af.net` with `localhost`; running it in Terminal will present an "Open File" dialog in which you will be asked to select an iTunes application for patching. The old application binary is stored within `iTunes.app/Contents/MacOS/iTunes.old`, just in case you would like to undo the hack later.
+
+Pre-patched binaries may be made available at a later date!
+
+### Option 2: DIY Installation
 
 *For experienced users only. You risk damaging your system. Please read the included MIT "LICENSE" document.*
 
-1. Copy the included directory `xml` into the directory `/Library/WebServer/Documents`
+#### Editing your `hosts` file:
 
-2. Add a DNS redirection to the bottom of the file `/etc/hosts`:
+You also can do this instead of patching iTunes directly.
+
+**For Mac OS X:** Add to the bottom of `/etc/hosts`:
 
 ```
 127.0.0.1 pri.kts-af.net
+::1 pri.kts-af.net
 ```
 
-3. Add an Apache `RewriteRule` to the bottom of the file `/etc/httpd/httpd.conf`:
+**For Mac OS 9:** Add to the bottom of `/System Folder/Preferences/Hosts`:
 
 ```
-RewriteRule "^/xml/index\.xml$" "/cgi-bin/nubango.sh" [PT]"
+pri.kts-af.net IN A 127.0.0.1
+pri.kts-af.net IN AAAA ::1
 ```
 
-4. Copy the included file `cgi-bin/nubango.sh` into the directory `/Library/WebServer/CGI-Executables`
-5. Make the file `nubango.sh` executable:
+#### Self-hosting with Apache/CGI:
+
+1. Copy the included directory `xml` into  `/Library/WebServer/Documents`
+2. Add this `RewriteRule` to the bottom of `/etc/httpd/httpd.conf`:
 
 ```
-chmod +x /Library/WebServer/CGI-Executables/nubango.sh
+RewriteRule "^/xml/index\.xml$" "/cgi-bin/streamingRadioStations.sh" [PT]"
 ```
 
-6. Enable "Personal Web Sharing" in *System Preferences > Internet & Network > Services > Sharing*
-7. Open http://127.0.0.1 and http://127.0.0.1/xml/index.xml in your web browser to ensure that the HTTP server is working properly.
+3. Copy the included file `cgi-bin/streamingRadioStations.sh` into the directory `/Library/WebServer/CGI-Executables`
+4. Make the file `streamingRadioStations.sh` executable:
+
+```
+chmod +x /Library/WebServer/CGI-Executables/streamingRadioStations.sh
+```
+
+5. Ensure that "Personal Web Sharing" is enabled in *System Preferences > Internet & Network > Services > Sharing*
+6. Open http://127.0.0.1 and http://127.0.0.1/xml/index.xml in your web browser to ensure that the HTTP server is working properly.
