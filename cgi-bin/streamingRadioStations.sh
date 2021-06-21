@@ -5,64 +5,44 @@ if (( $EUID == 0 )); then
 	echo "Here be dragons. Exiting..."
 	exit 125
 fi
-echo "Content-Type: text/xml
+# XML_MAP is a map of "magic number" IDs to filenames.
+XML_MAP="username=AppleApp1 nubango-auth
+129 golden-oldies
+141 classical
+102 international-world
+103 eclectic
+112 jazz
+120 reggae-island
+163 ambient
+21 news-talk-radio
+24 top-40-pop
+35 religious
+36 hip-hop-rap
+48 hard-rock-metal
+86 college-university
+11 comedy
+12 blues
+14 alternative-rock
+18 classic-rock
+19 sports-radio
+20 rnb-soul
+3 90s-hits
+4 70s-retro
+5 80s-flashback
+7 electronica
+8 country
+9 adult-contemporary
+1 genres
+-12 genres"
+# Parse querystring Tuning ID or username.
+XML_ID=$(echo $QUERY_STRING | sed -rn "s/tuning_id\=(\-?[[:digit]]+|[[:digit:]]+)|(username=AppleApp1)/\1/p")
+# Search XML_MAP for a string (file name) using the parsed ID.
+XML_FILE=$(echo $XML_MAP | grep "$XML_ID" | sed -rn "s/^$XML_ID ([[:alpha:]]+)/\1/p")
+if echo XML_FILE | sed -rn '/[[:alpha:]]+/!{q1}'; then
+	echo "Content-Type: text/xml
 "
-if echo $QUERY_STRING | grep -q "tuning_id=-12" ; then
-	cat $DOCUMENT_ROOT/xml/genres.xml
-elif echo $QUERY_STRING | grep -q "username=AppleApp1" ; then
-	cat $DOCUMENT_ROOT/xml/nubango-auth.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=129" ; then
-	cat $DOCUMENT_ROOT/xml/golden-oldies.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=141" ; then
-	cat $DOCUMENT_ROOT/xml/classical.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=102" ; then
-	cat $DOCUMENT_ROOT/xml/international-world.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=103" ; then
-	cat $DOCUMENT_ROOT/xml/eclectic.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=112" ; then
-	cat $DOCUMENT_ROOT/xml/jazz.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=120" ; then
-	cat $DOCUMENT_ROOT/xml/reggae-island.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=163" ; then
-	cat $DOCUMENT_ROOT/xml/ambient.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=21" ; then
-	cat $DOCUMENT_ROOT/xml/news-talk-radio.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=24" ; then
-	cat $DOCUMENT_ROOT/xml/top-40-pop.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=35" ; then
-	cat $DOCUMENT_ROOT/xml/religious.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=36" ; then
-	cat $DOCUMENT_ROOT/xml/hip-hop-rap.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=48" ; then
-	cat $DOCUMENT_ROOT/xml/hard-rock-metal.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=86" ; then
-	cat $DOCUMENT_ROOT/xml/college-university.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=11" ; then
-	cat $DOCUMENT_ROOT/xml/comedy.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=12" ; then
-	cat $DOCUMENT_ROOT/xml/blues.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=14" ; then
-	cat $DOCUMENT_ROOT/xml/alternative-rock.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=18" ; then
-	cat $DOCUMENT_ROOT/xml/classic-rock.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=19" ; then
-	cat $DOCUMENT_ROOT/xml/sports-radio.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=20" ; then
-	cat $DOCUMENT_ROOT/xml/rnb-soul.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=3" ; then
-	cat $DOCUMENT_ROOT/xml/90s-hits.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=4" ; then
-	cat $DOCUMENT_ROOT/xml/70s-retro.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=5" ; then
-	cat $DOCUMENT_ROOT/xml/80s-flashback.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=7" ; then
-	cat $DOCUMENT_ROOT/xml/electronica.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=8" ; then
-	cat $DOCUMENT_ROOT/xml/country.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=9" ; then
-	cat $DOCUMENT_ROOT/xml/adult-contemporary.xml
-elif echo $QUERY_STRING | grep -q "tuning_id=1" ; then
-	cat $DOCUMENT_ROOT/xml/genres.xml
+	cat "$DOCUMENT_ROOT/xml/$XML_FILE.xml"
 else
-	cat $DOCUMENT_ROOT/xml/genres.xml
+	echo "Content-Type: text/plain
+HTTP 1.1/ 404"
 fi
