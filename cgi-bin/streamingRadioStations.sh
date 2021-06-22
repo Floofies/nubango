@@ -6,7 +6,7 @@ if (( $EUID == 0 )); then
 	exit 125
 fi
 # XML_MAP is a map of "magic number" IDs to filenames.
-XML_MAP="username=AppleApp1 nubango-auth
+XML_MAP="AppleApp1 nubango-auth
 129 golden-oldies
 141 classical
 102 international-world
@@ -35,14 +35,17 @@ XML_MAP="username=AppleApp1 nubango-auth
 1 genres
 -12 genres"
 # Parse querystring Tuning ID or username.
-XML_ID=$(echo $QUERY_STRING | sed -rn "s/tuning_id\=(\-?[[:digit]]+|[[:digit:]]+)|(username=AppleApp1)/\1/p")
+XML_ID=$(echo "$QUERY_STRING" | sed -En "s/.*tuning_id=(-?[[:digit:]]+[[:digit:]]?).*/\1/p; s/username=(AppleApp1)/\1/p")
 # Search XML_MAP for a string (file name) using the parsed ID.
-XML_FILE=$(echo $XML_MAP | grep "$XML_ID" | sed -rn "s/^$XML_ID ([[:alpha:]]+)/\1/p")
-if echo XML_FILE | sed -rn '/[[:alpha:]]+/!{q1}'; then
-	echo "Content-Type: text/xml
+XML_FILE=$(echo "$XML_MAP" | sed -En "s/^$XML_ID\ ([[:alnum:]-]+)$/\1/p")
+if [ -z "$XML_FILE" ] ; then
+	echo "Status: 404 Not Found
+Content-Type: text/plain
+"
+	echo "404 Not Found"
+else
+	echo "Status: 200 OK
+Content-Type: application/xml
 "
 	cat "$DOCUMENT_ROOT/xml/$XML_FILE.xml"
-else
-	echo "Content-Type: text/plain
-HTTP 1.1/ 404"
 fi
