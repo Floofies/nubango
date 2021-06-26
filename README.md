@@ -4,13 +4,11 @@ Nubango is an iTunes-compatible Kerbango Tuning Service (KTS) server/proxy. Nuba
 
 Old iTunes versions like iTunes 8 and below are no longer able to download internet radio station listings from Apple's KTS server. Such old iTunes versions are using bad query strings in their HTTP requests. To get things working again, iTunes can be made to communicate with Nubango instead of Kerbango.
 
-To get iTunes to load radio stations from Nubango you must redirect iTunes' HTTP requests to a Nubango server (locally or remotely), which can serve a locally-hosted XML station catalog.
-
 ## Patched iTunes Applications
 
 [Pre-patched iTunes apps are now available on the Macintosh Garden!](https://macintoshgarden.org/apps/garden-itunes-nubango-radio-patch)
 
-`patcher.sh` does a simple string replacement on a iTunes binary executable, replacing all instances of `pri.kts-af.net` with `pri.kts-af.org` (which is our dedicated Nubango server). Running the patcher in Terminal will present an "Open File" dialog in which you will be asked to select an iTunes application for patching. The old application binary is stored within `iTunes.app/Contents/MacOS/iTunes.old`, just in case you would like to undo the hack later.
+To get iTunes to load radio stations from Nubango, we must redirect iTunes' HTTP requests to a Nubango server. `patcher.sh` does a simple string replacement on a iTunes binary executable, replacing all instances of `pri.kts-af.net` with `pri.kts-af.org` (which is our dedicated Nubango server). Running the patcher in Terminal will present an "Open File" dialog in which you will be asked to select an iTunes application for patching. The old application binary is stored within `iTunes.app/Contents/MacOS/iTunes.old`, just in case you would like to undo the hack later.
 
 ## :construction: *Project Status Disclaimer: Experimental*
 
