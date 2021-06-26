@@ -1,6 +1,6 @@
 #!/bin/sh
 #Nubango Radio Tuner Service
-if (( $EUID == 0 )); then
+if [ $(id -u) -eq 0 ] ; then
 	echo "DO NOT RUN NUBANGO AS ADMINISTRATOR!"
 	echo "Here be dragons. Exiting..."
 	exit 125
