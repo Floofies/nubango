@@ -1,68 +1,92 @@
 # Nubango
 
-Nubango is an iTunes-compatible Kerbango radio tuning server/proxy.
+Nubango is an iTunes-compatible Kerbango Tuning Service (KTS) server/proxy. Nubango is *really* just one CGI script and some static XML files.
 
-Certain old iTunes versions like v4.x and below are no longer able to download any internet radio stations because they are using bad query strings in their HTTP requests; such old versions fail to download the Kerbango XML they need from the Apple/Kerbango Radio Tuning Service. To get things working again, iTunes can be made to communicate with Nubango instead of Kerbango.
+Old iTunes versions like iTunes 8 and below are no longer able to download internet radio station listings from Apple's KTS server. Such old iTunes versions are using bad query strings in their HTTP requests. To get things working again, iTunes can be made to communicate with Nubango instead of Kerbango.
 
 To get iTunes to load radio stations from Nubango you must redirect iTunes' HTTP requests to a Nubango server (locally or remotely), which can serve a locally-hosted XML station catalog.
 
-## :construction: *Project Status: Experimental*
+## Patched iTunes Applications
+
+[Pre-patched iTunes apps are now available on the Macintosh Garden!](https://macintoshgarden.org/apps/garden-itunes-nubango-radio-patch)
+
+`patcher.sh` does a simple string replacement on a iTunes binary executable, replacing all instances of `pri.kts-af.net` with `pri.kts-af.org` (which is our dedicated Nubango server). Running the patcher in Terminal will present an "Open File" dialog in which you will be asked to select an iTunes application for patching. The old application binary is stored within `iTunes.app/Contents/MacOS/iTunes.old`, just in case you would like to undo the hack later.
+
+## :construction: *Project Status Disclaimer: Experimental*
 
 :warning: "Experimental" means two things: ~~Here be dragons~~ Nubango may cause damage to your system if you attempt to use it, because at-present it is mostly untested.
 
-The charts below both represent someone's past, someone's future, someone's blood, sweat, and tears. They're not crystal balls, but they can tell you which iTunes versions work with Nubango, which operating systems can host Nubango, and how far along the project is for each use-case.
+**We need your help to improve Nubango for everyone. Please present requests and report any problems by creating a new GitHub issue!**
 
-### :bomb: OS Compatibility Chart
-
-| Operating System | Compatibility Status | Project Status |
-| --- | --- | --- |
-| Windows 10 | Untested | 0% |
-| Linux (Debian) | Untested | 0% |
-| Linux (RedHat) | Untested | 0% |
-| Mac OS X 10.4.11 | **OK** | 100% |
-| Mac OS X 10.3.9 | Untested | 0% |
-| Mac OS X 10.2.8 | Untested | 0% |
-| Mac OS X 10.1.5 | Untested | 0% |
-| Mac OS X 10.0.4 | Untested | 0% |
-| Mac OS 9.2.2 | Testing | 50% |
-| Mac OS 8.6 | Untested | 0% |
-
-*Other systems might be added later...*
-
-### :bomb: iTunes Compatibility Chart
-
-| iTunes Version | Compatibility Status | Project Status |
-| --- | --- | --- |
-| 9.x | **OK** | 100% |
-| 8.x | Testing | 50% |
-| 7.x | Testing | 50% |
-| 6.x | Testing | 50% |
-| 5.x | **OK** | 100% |
-| 4.x | **OK** | 100% |
-| 3.x | **OK** | 100% |
-| 2.x | **OK** | 100% |
-| 1.x | **OK** | 100% |
-
-## :wrench: How-To Patch / Install
-
-- To patch an iTunes binary such that it is redirected to localhost, run the included `patcher.sh` installation script in Terminal. Nubango must already be running on the same system.
-- To self-host Nubango on Mac OS X 10.4, run the included `install.sh` installation script and then enable "Personal Web Sharing".
-	- Open http://127.0.0.1 and http://127.0.0.1/xml/index.xml in your web browser to ensure that the HTTP server is working properly.
-- There are also several useful *DIY Installation* steps below which take advantage of system-level hacks rather than patching the iTunes binary.
-
-### Option 1: Patching iTunes Binaries
-
-`patcher.sh` does a simple string replacement on an iTunes binary executable, replacing all instances of `pri.kts-af.net` with `localhost`; running it in Terminal will present an "Open File" dialog in which you will be asked to select an iTunes application for patching. The old application binary is stored within `iTunes.app/Contents/MacOS/iTunes.old`, just in case you would like to undo the hack later.
-
-Pre-patched binaries may be made available at a later date!
-
-### Option 2: DIY Installation
+## How to Self-Host Nubango
 
 *For experienced users only. You risk damaging your system. Please read the included MIT "LICENSE" document.*
 
-#### Editing your `hosts` file:
+### Self-hosting with Apache on Linux
 
-You also can do this instead of patching iTunes directly.
+*Tested on Ubuntu 20.04.2*
+
+1. Install Apache 2:
+
+```shell
+sudo apt-get update && sudo apt install apache2
+```
+
+2. Copy the entire included `xml` directory into the webroot (most likely at) `/var/www/html`
+3. Enable the `rewrite` & `cgi` Apache modules:
+
+```shell
+sudo a2enmod rewrite cgi
+```
+
+4. Add this `RewriteRule` to the the site file (Just before the line `</VirtualHost>`) at `/etc/apache2/sites-enabled/000-default.config`:
+
+```shell
+RewriteEngine On
+RewriteRule "^/xml/index\.xml$" "/cgi-bin/streamingRadioStations.sh" [H=cgi-script,PT]
+```
+
+5. Copy the included CGI script from `cgi-bin/streamingRadioStations.sh` into the directory at `/usr/lib/cgi-bin`
+6. Make the file at `/usr/lib/cgi-bin/streamingRadioStations.sh` executable:
+
+```shell
+chmod +x /usr/lib/cgi-bin/streamingRadioStations.sh
+```
+
+7. Start Apache 2:
+
+```shell
+sudo apachectl start
+```
+
+8. Open http://127.0.0.1 and http://127.0.0.1/xml/index.xml in a web browser to ensure that the HTTP server is working properly.
+
+### Self-hosting with Apache on Mac OS X 10.4:
+
+*Apache is included and pre-configured with Mac OS X 10.4*
+
+1. Copy the entire included `xml` directory into the webroot at `/Library/WebServer/Documents`
+2. Add this `RewriteRule` to the bottom of the file at `/etc/httpd/httpd.conf`:
+
+```shell
+RewriteRule "^/xml/index\.xml$" "/cgi-bin/streamingRadioStations.sh" [PT]
+```
+
+3. Copy the included CGI script from `cgi-bin/streamingRadioStations.sh` into the directory at `/Library/WebServer/CGI-Executables`
+4. Make the file at `/Library/WebServer/CGI-Executables/streamingRadioStations.sh` executable:
+
+```shell
+chmod +x /Library/WebServer/CGI-Executables/streamingRadioStations.sh
+```
+
+5. Ensure that "Personal Web Sharing" is enabled in *System Preferences > Internet & Network > Services > Sharing*
+6. Open http://127.0.0.1 and http://127.0.0.1/xml/index.xml in a web browser to ensure that the HTTP server is working properly.
+
+### Editing your `hosts` file for self-hosting:
+
+To get your iTunes to communicate with your self-hosted Nubango server, you can perform a DNS hack instead of patching.
+
+You can easily replace any of the below IP addresses with the one pointing to your Nubango server.
 
 **For Mac OS X:** Add to the bottom of `/etc/hosts`:
 
@@ -77,22 +101,3 @@ You also can do this instead of patching iTunes directly.
 pri.kts-af.net IN A 127.0.0.1
 pri.kts-af.net IN AAAA ::1
 ```
-
-#### Self-hosting with Apache/CGI:
-
-1. Copy the included directory `xml` into  `/Library/WebServer/Documents`
-2. Add this `RewriteRule` to the bottom of `/etc/httpd/httpd.conf`:
-
-```
-RewriteRule "^/xml/index\.xml$" "/cgi-bin/streamingRadioStations.sh" [PT]"
-```
-
-3. Copy the included file `cgi-bin/streamingRadioStations.sh` into the directory `/Library/WebServer/CGI-Executables`
-4. Make the file `streamingRadioStations.sh` executable:
-
-```
-chmod +x /Library/WebServer/CGI-Executables/streamingRadioStations.sh
-```
-
-5. Ensure that "Personal Web Sharing" is enabled in *System Preferences > Internet & Network > Services > Sharing*
-6. Open http://127.0.0.1 and http://127.0.0.1/xml/index.xml in your web browser to ensure that the HTTP server is working properly.
