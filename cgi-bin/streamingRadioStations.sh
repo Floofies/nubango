@@ -16,7 +16,7 @@ XML_MAP="AppleApp1 nubango-auth
 163 ambient
 21 news-talk-radio
 24 top-40-pop
-35 religious
+34 religious
 36 hip-hop-rap
 48 hard-rock-metal
 86 college-university
