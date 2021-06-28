@@ -26,11 +26,11 @@ async function alert(statusCode) {
 		})
 	});
 }
-async function check(sendEmail) {
+async function check(sendSMS) {
 	const srvResponse = await fetch(serverURL, { headers: { "User-Agent": "CFHealthCheckWorker/iTunes" } });
 	const hcBody = (await srvResponse.text()).trim();
 	const hcStatus = srvResponse.status.toString();
-	if (sendEmail) {
+	if (sendSMS) {
 		if (hcStatus !== "200" || hcBody !== "OK") await alert(hcStatus);
 		return;
 	}
