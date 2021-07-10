@@ -45,7 +45,7 @@ Content-Type: text/plain
 	echo "404 Not Found"
 else
 	echo "Status: 200 OK
-Content-Type: application/xml
+Content-Type: text/xml; charset=ISO-8859-1
 "
 	cat "$DOCUMENT_ROOT/xml/$XML_FILE.xml"
 fi

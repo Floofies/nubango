@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 <kb:Kerbango xmlns:kb="http://www.kerbango.com/xml">
 <kb:results><kb:menu_record>
 <kb:name>Golden Oldies</kb:name>
@@ -6,17 +6,17 @@
 <kb:pass_count>0</kb:pass_count>
 </kb:menu_record>
 <kb:menu_record>
-<kb:name>'90s Hits</kb:name>
+<kb:name>90's Hits</kb:name>
 <kb:menu_id>3</kb:menu_id>
 <kb:pass_count>0</kb:pass_count>
 </kb:menu_record>
 <kb:menu_record>
-<kb:name>'70s Retro</kb:name>
+<kb:name>70's Retro</kb:name>
 <kb:menu_id>4</kb:menu_id>
 <kb:pass_count>0</kb:pass_count>
 </kb:menu_record>
 <kb:menu_record>
-<kb:name>'80s Flashback</kb:name>
+<kb:name>80's Flashback</kb:name>
 <kb:menu_id>5</kb:menu_id>
 <kb:pass_count>0</kb:pass_count>
 </kb:menu_record>
@@ -91,7 +91,7 @@
 <kb:pass_count>0</kb:pass_count>
 </kb:menu_record>
 <kb:menu_record>
-<kb:name>College/University</kb:name>
+<kb:name>College / University</kb:name>
 <kb:menu_id>86</kb:menu_id>
 <kb:pass_count>0</kb:pass_count>
 </kb:menu_record>
