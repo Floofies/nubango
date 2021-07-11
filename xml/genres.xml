@@ -125,5 +125,10 @@
 <kb:menu_id>163</kb:menu_id>
 <kb:pass_count>0</kb:pass_count>
 </kb:menu_record>
+<kb:menu_record>
+<kb:name>Developer Test</kb:name>
+<kb:menu_id>999</kb:menu_id>
+<kb:pass_count>0</kb:pass_count>
+</kb:menu_record>
 </kb:results> 
 </kb:Kerbango>

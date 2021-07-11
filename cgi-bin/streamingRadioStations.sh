@@ -33,7 +33,9 @@ XML_MAP="AppleApp1 nubango-auth
 8 country
 9 adult-contemporary
 1 genres
--12 genres"
+0 empty
+-12 genres
+999 encodingTest"
 # Parse querystring Tuning ID or username.
 XML_ID=$(echo "$QUERY_STRING" | sed -En "s/.*tuning_id=(-?[[:digit:]]+[[:digit:]]?).*/\1/p; s/username=(AppleApp1)/\1/p")
 # Search XML_MAP for a string (file name) using the parsed ID.
