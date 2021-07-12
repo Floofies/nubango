@@ -1,5 +1,6 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<html>
 <head>
+	<meta charset="UTF-8">
 	<script>
 		window.addEventListener("load", function () {
 			function empty(element) {
@@ -20,19 +21,7 @@
 				return str.replace(/[&?<>;=]/g, htmlEntity);
 			}
 			function KerbangoStationRecord(name, desc, href, bitrate) {
-				return `<kb:station_record>
-<kb:station>${name}</kb:station>
-<kb:description>foobar</kb:description>
-<kb:long_description>${desc}</kb:long_description>
-<kb:num_users>1</kb:num_users>
-<kb:max_users>100</kb:max_users>
-<kb:station_url_record>
-<kb:url>${href}</kb:url>
-<kb:status_code>200</kb:status_code>
-<kb:bandwidth_kbps>${bitrate}</kb:bandwidth_kbps>
-</kb:station_url_record>
-</kb:station_record>
-`;
+				return `<kb:station_record><kb:station>${name}</kb:station><kb:description>foobar</kb:description><kb:long_description>${desc}</kb:long_description><kb:num_users>1</kb:num_users><kb:max_users>100</kb:max_users><kb:station_url_record><kb:url>${href}</kb:url><kb:status_code>200</kb:status_code><kb:bandwidth_kbps>${bitrate}</kb:bandwidth_kbps></kb:station_url_record></kb:station_record>`;
 			}
 			const genres = document.querySelectorAll("table");
 			const accordions = document.querySelectorAll(".accordion");
@@ -46,34 +35,29 @@
 				for (const station of stations) {
 					const a = station.querySelector("a");
 					const data = station.querySelectorAll("td");
-
 					const desc = htmlEntities(data[1].textContent);
 					const name = htmlEntities(a.textContent);
 					const href = htmlEntities(a.href);
 					const bitrate = data[2].textContent;
 					const kbXML = KerbangoStationRecord(name, desc, href, bitrate);
-					kbStations[genre].push(kbXML);
+					kbStations[genre].push({
+						desc,
+						name,
+						href,
+						bitrate,
+						kbXML
+					});
 				}
 			}
+			const jsonString = JSON.stringify(kbStations);
 			empty(document.body);
-			for (const genre in kbStations) {
-					var xml = "";
-					const xmlBox = document.createElement("textarea");
-					xml += `<kb:Kerbango xmlns:kb="http://www.kerbango.com/xml"><kb:results>`;
-					for (const station of kbStations[genre]) {
-						xml += station;
-					}
-					xml += `</kb:results></kb:Kerbango>`;
-					xmlBox.value = xml;
-					document.body.appendChild(xmlBox);
-					const xmlBlob = new Blob([xml], { type: "text/xml" });
-					const xmlLink = document.createElement("a");
-					xmlLink.download = genre.toLowerCase().replace(/[/ &]/g, () => "-").replace(/---/g, () => "-").replace(/[']/g, () => "");
-					xmlLink.textContent = "Download \"" + xmlLink.download + ".xml\"";
-					xmlLink.href = window.URL.createObjectURL(xmlBlob);
-					document.body.appendChild(xmlLink);
-					document.body.appendChild(document.createElement("br"));
-			}
+			const jsonBlob = new Blob([jsonString], { type: "text/json" });
+				const jsonLink = document.createElement("a");
+				jsonLink.download =  "stations.json";
+				jsonLink.textContent = "Download JSON";
+				jsonLink.href = window.URL.createObjectURL(jsonBlob);
+				document.body.appendChild(jsonLink);
+				document.body.appendChild(document.createElement("br"));
 		});
 	</script>
 </head>
