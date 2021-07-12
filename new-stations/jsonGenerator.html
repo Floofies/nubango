@@ -12,16 +12,15 @@
 				"<": "&lt;",
 				">": "&gt;",
 				";": "&#59;",
-				"=": "&#61;"
+				"=": "&#61;",
+				"'": "&#39;",
+				"\"": "&#34;"
 			};
 			function htmlEntity(terminal) {
 				return terminals[terminal];
 			}
 			function htmlEntities(str) {
 				return str.replace(/[&?<>;=]/g, htmlEntity);
-			}
-			function KerbangoStationRecord(name, desc, href, bitrate) {
-				return `<kb:station_record><kb:station>${name}</kb:station><kb:description>foobar</kb:description><kb:long_description>${desc}</kb:long_description><kb:num_users>1</kb:num_users><kb:max_users>100</kb:max_users><kb:station_url_record><kb:url>${href}</kb:url><kb:status_code>200</kb:status_code><kb:bandwidth_kbps>${bitrate}</kb:bandwidth_kbps></kb:station_url_record></kb:station_record>`;
 			}
 			const genres = document.querySelectorAll("table");
 			const accordions = document.querySelectorAll(".accordion");
@@ -39,13 +38,11 @@
 					const name = htmlEntities(a.textContent);
 					const href = htmlEntities(a.href);
 					const bitrate = data[2].textContent;
-					const kbXML = KerbangoStationRecord(name, desc, href, bitrate);
 					kbStations[genre].push({
 						desc,
 						name,
 						href,
-						bitrate,
-						kbXML
+						bitrate
 					});
 				}
 			}
