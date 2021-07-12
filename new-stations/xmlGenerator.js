@@ -8,6 +8,22 @@ const kbHead = `<?xml version="1.0" encoding="ISO-8859-1"?><kb:Kerbango xmlns:kb
 const kbRes = `<kb:results>`;
 const kbResFoot = `</kb:results>`;
 const kbFoot = `</kb:Kerbango>`;
+const terminals = {
+	"&": "&amp;",
+	"?": "&#63;",
+	"<": "&lt;",
+	">": "&gt;",
+	";": "&#59;",
+	"=": "&#61;",
+	"'": "&#39;",
+	"\"": "&#34;"
+};
+function htmlEntity(terminal) {
+	return terminals[terminal];
+}
+function htmlEntities(str) {
+	return str.replace(/[&?<>;=]/g, htmlEntity);
+}
 const charStr = "!'(),-./0123456789:;<=>?@ABCDEFGHIJKLMNOPRSTUVWXY^_abcdefghijklmnopqrstuvwxyz|éö–’%QZ[ßàäçèôúüŽ‘“„…€*+]ÖÜáãíóı™´Äêðñğœ¡”°É​—台四港第電香~ş«»`{}ûÇÈ║″ÁÙâëîùąęłńśżΠήίαγδεηθικλμνορτφωύآأابةثجحخدرزسشصعغقلمنوىي♫ΒÎåčįİšųžАБВЕИКЛНПСЧабвгдежзийклмнопрстуфцчшья一三二五數普碼話通ÍÚïòõćđƯЈЗРЦЮхыэюҥằếệịọốộớừÀØæøě";
 const genres = [
 	{ id: "3", name: "90's Hits" },
@@ -69,7 +85,7 @@ async function generateRecords(kbJSON) {
 	const emptyStr = kbHead + kbRes + kbResFoot + kbFoot;
 	fs.writeFile("./empty.xml", converter.convert(emptyStr, "UTF-8"), "latin1");
 	console.log("Generating encoding-test.xml ...");
-	const testStr = kbHead + kbRes + kbTestStation("Latin1DevEncodingTest", charStr) + kbResFoot + kbFoot;
+	const testStr = kbHead + kbRes + kbTestStation("Latin1DevEncodingTest", htmlEntities(charStr)) + kbResFoot + kbFoot;
 	fs.writeFile("./encoding-test.xml", converter.convert(testStr, "UTF-8"), "latin1");
 	console.log("Generating genres.xml ...");
 	var menuStr = kbHead + kbRes;
