@@ -44,7 +44,7 @@ function kbTestStation(name, str) {
 	return kbStationRecord(name, str, "http://listen.radionomy.com/lovejazzflorida.m3u", "128");
 }
 function kbMenuRecord(name, menuID) {
-	return `<kb:menu_record><kb:name>${name}</kb:name><kb:menu_id>${menuID}</kb:menu_id><kb:pass_count>0</kb:pass_count></kb:menu_record><kb:menu_record>`;
+	return `<kb:menu_record><kb:name>${name}</kb:name><kb:menu_id>${menuID}</kb:menu_id><kb:pass_count>0</kb:pass_count></kb:menu_record>`;
 }
 function formatFilename(str) {
 	return str.toLowerCase().replace(/[/ &]/g, () => "-").replace(/---/g, () => "-").replace(/[']/g, () => "");
